@@ -1,0 +1,242 @@
+/* ============================================================
+   Wahly a Ojo — site styles
+   ============================================================ */
+
+/* ── Typography & body ─────────────────────────────────────── */
+
+:root {
+  --accent: #e64a19;
+  --accent-light: #fff3ef;
+  --text-muted: #666;
+  --border: #e8e8e8;
+  --card-radius: 12px;
+}
+
+/* ── Homepage hero ─────────────────────────────────────────── */
+
+.cookbook-hero {
+  text-align: center;
+  padding: 3.5rem 1rem 2rem;
+}
+
+.cookbook-hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  line-height: 1.15;
+}
+
+.cookbook-hero p {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* ── Filter pills ──────────────────────────────────────────── */
+
+.cookbook-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.filter-pill {
+  padding: 0.35rem 1rem;
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  line-height: 1.4;
+}
+
+.filter-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.filter-pill.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* ── Recipe card grid ──────────────────────────────────────── */
+
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  padding-bottom: 3rem;
+}
+
+@media (max-width: 960px) {
+  .recipe-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .recipe-grid { grid-template-columns: 1fr; }
+}
+
+.recipe-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--card-radius);
+  overflow: hidden;
+  text-decoration: none !important;
+  color: inherit;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.recipe-card:hover {
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
+  transform: translateY(-3px);
+}
+
+.recipe-card__image {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #f5f0eb;
+}
+
+.recipe-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.recipe-card:hover .recipe-card__image img {
+  transform: scale(1.04);
+}
+
+.recipe-card__no-image {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #f5f0eb 0%, #e8ddd0 100%);
+}
+
+.recipe-card__body {
+  padding: 1rem 1.1rem 1.25rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.recipe-card__top {
+  margin-bottom: 0.15rem;
+}
+
+.recipe-card__title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #1a1a1a;
+}
+
+.recipe-card__author {
+  margin: 0;
+  font-size: 0.83rem;
+  color: var(--text-muted);
+}
+
+.recipe-card__time {
+  margin: 0;
+  font-size: 0.78rem;
+  color: #999;
+}
+
+/* ── Course badge ──────────────────────────────────────────── */
+
+.course-badge {
+  display: inline-block;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+/* ── Recipe page metadata block ────────────────────────────── */
+
+.recipe-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 0.75rem 0 2rem;
+  padding: 0.9rem 1.1rem;
+  background: var(--accent-light);
+  border-radius: 8px;
+  border-left: 4px solid var(--accent);
+}
+
+.back-link {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--accent) !important;
+  text-decoration: none !important;
+}
+
+.back-link:hover {
+  text-decoration: underline !important;
+}
+
+.meta-items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+}
+
+.meta-author {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.meta-item {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+/* ── Recipe page content ───────────────────────────────────── */
+
+/* Constrain line length for comfortable reading */
+.md-content .md-typeset {
+  max-width: 72ch;
+}
+
+/* Images in recipe body */
+.md-content .md-typeset img {
+  max-width: 720px;
+  width: 100%;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* ── Filtered-out cards ────────────────────────────────────── */
+
+.recipe-card.hidden {
+  display: none;
+}
+
+/* ── Responsive adjustments ────────────────────────────────── */
+
+@media (max-width: 480px) {
+  .cookbook-hero h1 { font-size: 1.9rem; }
+  .cookbook-hero p  { font-size: 1rem; }
+}
