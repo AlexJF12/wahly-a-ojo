@@ -9,6 +9,7 @@ Recipes we want to write up.
 - [ ] Matzoh ball soup
 - [ ] Chicken tortilla soup
 - [ ] Sourdough bread
+- [ ] Salmon rice bowl
 
 ## Ceci
 
