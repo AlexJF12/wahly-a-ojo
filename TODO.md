@@ -9,3 +9,10 @@ Recipes we want to write up.
 - [ ] Matzoh ball soup
 - [ ] Chicken tortilla soup
 - [ ] Sourdough bread
+
+## Ceci
+
+- [ ] Lamb stew
+- [ ] Beef Wellington
+- [ ] Paella
+- [ ] Focaccia (and variations)
