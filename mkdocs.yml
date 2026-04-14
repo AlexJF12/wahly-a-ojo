@@ -1,0 +1,39 @@
+site_name: Wahly a Ojo
+site_description: A community cookbook. Recipes cooked a ojo — by sight, by feel, by taste.
+site_url: https://alexjf12.github.io/wahly-a-ojo/
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: deep-orange
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/book-open-variant
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/filter.js
+
+plugins:
+  - search
+
+hooks:
+  - hooks/generate_index.py
+
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+  - tables
