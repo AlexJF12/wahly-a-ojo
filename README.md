@@ -28,4 +28,4 @@ Add your recipe file to the recipes directory. Recipes are written in Markdown.
 
 ## Project name
 
-"Wahly a ojo" — eye of the needle.
+"A ojo" is a Spanish cooking expression meaning to cook by sight — no strict measurements, no timers. The cook uses their eyes and judgment to decide how much seasoning to add or how long something needs on the heat. Recipes here are guides, not rules.
