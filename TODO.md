@@ -2,6 +2,10 @@
 
 Recipes we want to write up.
 
+## Everyone
+
+- [ ] Pig roast
+
 ## Alex
 
 - [ ] Chicken larb
@@ -17,3 +21,22 @@ Recipes we want to write up.
 - [ ] Beef Wellington
 - [ ] Paella
 - [ ] Focaccia (and variations)
+
+## Emily Gordon
+
+- [ ] Granola
+- [ ] Matzoh brei
+
+## Nate
+
+- [ ] Chicken salad
+
+## Dad
+
+- [ ] Grilled cheese
+- [ ] Pasta with adobo
+- [ ] Grilled chicken with adobo
+
+## Ben
+
+- [ ] Meatloaf
