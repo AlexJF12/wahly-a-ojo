@@ -1,45 +1,47 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "openai-whisper",
+#   "anthropic",
+# ]
+# ///
 """
 Transcribe an audio recording of someone describing a recipe and write
 a properly formatted cookbook Markdown file.
 
 Usage:
-    python scripts/transcribe-recipe.py <audio-file> [--author "Name"]
+    uv run scripts/transcribe-recipe.py <audio-file> [--author "Name"] [--model base]
 
-Supported audio formats: .mp3, .m4a, .wav, .webm
+Whisper transcribes the audio locally; Claude formats the transcript
+into a cookbook-style Markdown file.
+
+Supported audio formats: .mp3, .m4a, .wav, .webm, .ogg, .flac
 Output: docs/recipes/<slug>.md
 """
 
 import argparse
-import base64
 import pathlib
 import re
 import sys
-
-MEDIA_TYPES = {
-    ".mp3": "audio/mpeg",
-    ".m4a": "audio/mp4",
-    ".wav": "audio/wav",
-    ".webm": "audio/webm",
-}
 
 ROOT_DIR = pathlib.Path(__file__).resolve().parent.parent
 RECIPES_DIR = ROOT_DIR / "docs" / "recipes"
 
 SYSTEM_PROMPT = """\
-You are a cookbook editor. Your job is to listen to a voice recording of \
-someone describing a recipe and produce a clean, properly formatted Markdown \
-recipe file that matches the style of the cookbook.
+You are a cookbook editor. You will receive a raw transcript of someone \
+describing a recipe out loud. Turn it into a clean, properly formatted \
+Markdown recipe file that matches the style of the cookbook.
 
 Rules:
 - Write in a natural, human voice — casual and direct, not stiff or formal.
-- Never use the phrase "a ojo" anywhere in the recipe text.
+- Never use the phrase "a ojo" anywhere in the output.
 - Quantities and times can be approximate or descriptive ("a handful", \
 "until golden", "about 20 minutes") — that is the spirit of this cookbook.
-- Do not invent ingredients or steps that were not described. If something is \
-unclear, use your best judgment to stay true to what was said.
+- Do not invent ingredients or steps that were not in the transcript. \
+If something is unclear, use your best judgment to stay true to what was said.
 - The output must be ONLY the Markdown file, starting with --- and ending \
-after the last section. No explanation, no preamble.
+after the last section. No explanation, no preamble, no code fences.
 
 Output format:
 
@@ -78,27 +80,23 @@ def slugify(title: str) -> str:
     return slug.strip("-")
 
 
-def transcribe(audio_path: pathlib.Path, author: str) -> str:
-    try:
-        import anthropic
-    except ImportError:
-        sys.exit("anthropic package not found. Run: pip install anthropic")
+def transcribe_audio(audio_path: pathlib.Path, whisper_model: str) -> str:
+    import whisper
 
-    suffix = audio_path.suffix.lower()
-    media_type = MEDIA_TYPES.get(suffix)
-    if not media_type:
-        sys.exit(
-            f"Unsupported audio format: {suffix}. "
-            f"Supported: {', '.join(MEDIA_TYPES)}"
-        )
+    print(f"Loading Whisper model '{whisper_model}'…", flush=True)
+    model = whisper.load_model(whisper_model)
+    print(f"Transcribing {audio_path.name}…", flush=True)
+    result = model.transcribe(str(audio_path))
+    return result["text"].strip()
 
-    audio_data = base64.standard_b64encode(audio_path.read_bytes()).decode()
+
+def format_recipe(transcript: str, author: str) -> str:
+    import anthropic
 
     client = anthropic.Anthropic()
-
     system = SYSTEM_PROMPT.replace("{author}", author)
 
-    print(f"Sending {audio_path.name} to Claude…", flush=True)
+    print("Formatting transcript with Claude…", flush=True)
 
     with client.messages.stream(
         model="claude-opus-4-7",
@@ -108,29 +106,18 @@ def transcribe(audio_path: pathlib.Path, author: str) -> str:
         messages=[
             {
                 "role": "user",
-                "content": [
-                    {
-                        "type": "audio",
-                        "source": {
-                            "type": "base64",
-                            "media_type": media_type,
-                            "data": audio_data,
-                        },
-                    },
-                    {
-                        "type": "text",
-                        "text": (
-                            "Transcribe and format this recipe recording "
-                            "as a cookbook Markdown file following the rules above."
-                        ),
-                    },
-                ],
+                "content": transcript,
             }
         ],
     ) as stream:
-        markdown = stream.get_final_message().content[-1].text
+        message = stream.get_final_message()
 
-    return markdown
+    # Last content block is the text response (thinking blocks come first)
+    for block in reversed(message.content):
+        if block.type == "text":
+            return block.text.strip()
+
+    sys.exit("Claude returned no text content.")
 
 
 def extract_title(markdown: str) -> str | None:
@@ -139,12 +126,20 @@ def extract_title(markdown: str) -> str | None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Audio → recipe Markdown")
+    parser = argparse.ArgumentParser(
+        description="Transcribe a recipe audio recording and write a cookbook Markdown file."
+    )
     parser.add_argument("audio", help="Path to the audio file")
     parser.add_argument(
         "--author",
         default="Unknown",
-        help="Author name to embed in the frontmatter (default: Unknown)",
+        help="Author name for the frontmatter (default: Unknown)",
+    )
+    parser.add_argument(
+        "--model",
+        default="base",
+        metavar="WHISPER_MODEL",
+        help="Whisper model size: tiny, base, small, medium, large (default: base)",
     )
     args = parser.parse_args()
 
@@ -152,7 +147,10 @@ def main() -> None:
     if not audio_path.exists():
         sys.exit(f"File not found: {audio_path}")
 
-    markdown = transcribe(audio_path, args.author)
+    transcript = transcribe_audio(audio_path, args.model)
+    print(f"\nTranscript ({len(transcript)} chars):\n{transcript[:300]}{'…' if len(transcript) > 300 else ''}\n")
+
+    markdown = format_recipe(transcript, args.author)
 
     title = extract_title(markdown)
     if not title:
@@ -166,12 +164,13 @@ def main() -> None:
 
     RECIPES_DIR.mkdir(parents=True, exist_ok=True)
     out_path.write_text(markdown, encoding="utf-8")
+
     print(f"Saved: {out_path}")
     print()
-    print(f"Next steps:")
+    print("Next steps:")
     print(f"  1. Review and edit {out_path}")
     print(f"  2. Add a hero image at docs/images/{slug}/hero.jpg")
-    print(f"  3. Run: python scripts/validate-recipes.py {out_path}")
+    print(f"  3. uv run scripts/validate-recipes.py {out_path}")
 
 
 if __name__ == "__main__":
