@@ -19,17 +19,15 @@ Rotisserie chicken from the store is fine. Leftover roast chicken is better. Wha
 - Salt and pepper
 - Lemon juice or a splash of pickle juice — one of these, not optional
 
-Pick from these depending on what's in your fridge and what sounds good:
+Pick a direction and go with it:
 
-- Celery, thinly sliced
-- Red onion or scallions, finely chopped
-- Dijon mustard
-- Fresh dill, tarragon, or chives
-- Pickles, chopped
-- Grapes, halved
-- Apple, small dice
-- Toasted walnuts or pecans
-- A little hot sauce
+Classic: celery, red onion, dijon, tarragon
+
+Bright and herby: scallions, a lot of fresh dill, lemon juice instead of pickle juice
+
+Tangy: pickles, dijon, scallions, a little hot sauce
+
+Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chives
 
 ## Instructions
 
