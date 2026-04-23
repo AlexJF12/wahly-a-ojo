@@ -10,48 +10,39 @@ prep_time: "15 min"
 
 ![Chicken salad](../images/chicken-salad/hero.jpg)
 
-This is not a recipe so much as a loose set of suggestions. Chicken salad is one of those things that is impossible to get wrong if you taste as you go. The amounts below are vibes. Trust yourself.
+Rotisserie chicken from the store is fine. Leftover roast chicken is better. Whatever you have works.
 
 ## Ingredients
 
-**The base — you need these:**
+- Cooked chicken, shredded or chopped
+- Mayo — enough to make it creamy, probably more than you think
+- Salt and pepper
+- Lemon juice or a splash of pickle juice — one of these, not optional
 
-- Cooked chicken, shredded or chopped. Rotisserie chicken is great. Leftover roasted chicken is great. Poached chicken breast is great. However much you have is the right amount.
-- Mayo. Enough to bring it together and make it creamy. Start with less than you think, add more.
-- Salt and pepper.
+Pick from these depending on what's in your fridge and what sounds good:
 
-**Pick some of these — not all, just what sounds good:**
-
-- Celery, thinly sliced — for crunch
-- Red onion or scallions, finely chopped — for bite
-- Dijon mustard — a spoonful, adds depth
-- A squeeze of lemon juice — brightens everything
-- Pickle or pickle juice — tangy, a little funky, highly recommended
-- Fresh dill, tarragon, or chives — any one of these changes the whole character
-- Grapes, halved — sweet, a little fancy
-- Apple, small dice — crunch and sweetness
-- Toasted walnuts or pecans — for texture and richness
-- A pinch of celery salt — instead of or alongside regular salt
-- A little hot sauce — just enough to know it's there
+- Celery, thinly sliced
+- Red onion or scallions, finely chopped
+- Dijon mustard
+- Fresh dill, tarragon, or chives
+- Pickles, chopped
+- Grapes, halved
+- Apple, small dice
+- Toasted walnuts or pecans
+- A little hot sauce
 
 ## Instructions
 
-1. Start with your chicken. Shred it with two forks or chop it — either works, just pick a lane. Big chunks are hearty, smaller pieces hold together better in a sandwich.
+1. Shred or chop the chicken. Smaller pieces hold together better in a sandwich, bigger chunks are more satisfying to eat plain. Pick based on how you're serving it.
 
-2. Add mayo a ojo — spoon some in, mix, and look at it. Does it look like it needs more? Add more. You want everything coated and cohesive, not swimming.
+2. Mix in mayo until it looks right. Start with less, add more. You want it cohesive and a little creamy, not dry, not soupy.
 
-3. Season with salt and pepper now, before you add anything else. Taste it. It should taste good already.
+3. Salt and pepper, then taste it.
 
-4. Go through your add-ins and pick what sounds right to you today. Add them one at a time, tasting as you go. The lemon or pickle juice is the thing that most people forget — add a little acid at the end and it will wake everything up.
+4. Add whatever you picked from the list above. The acid — lemon juice or pickle juice — goes in last, just a little, and it makes a noticeable difference.
 
-5. Taste again. Adjust. More salt? More mayo? More lemon? You'll know.
-
-6. Let it sit in the fridge for at least 20 minutes if you can — it gets better as everything melds together.
-
-## How to eat it
-
-On toast or a good sandwich bread. On crackers. Stuffed into a lettuce cup. Straight from the bowl standing at the counter. All valid.
+5. Taste, adjust, done. Let it sit in the fridge for a bit if you can.
 
 ## Notes
 
-The only rule is that it should taste good to you. If you love dill, use a lot of dill. If you hate celery, leave it out. The ratio of chicken to mayo is the one thing worth paying attention to — too little mayo and it's dry, too much and it's heavy. Everything else is up to you.
+Good on toast, on crackers, or just eaten out of the container. The dill version and the grape-and-walnut version are basically different dishes. Both are worth making.
