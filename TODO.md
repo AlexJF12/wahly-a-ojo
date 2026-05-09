@@ -21,6 +21,7 @@ Recipes we want to write up.
 - [ ] Beef Wellington
 - [ ] Paella
 - [ ] Focaccia (and variations)
+- [ ] Ropa Vieja
 
 ## Emily Gordon
 
