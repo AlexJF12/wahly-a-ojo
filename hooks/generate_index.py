@@ -2,7 +2,8 @@
 MkDocs hooks for Wahly a Ojo.
 
 on_pre_build  — regenerate docs/index.md from the current recipe collection.
-on_page_markdown — inject a metadata block and back-link into each recipe page.
+on_page_markdown — inject a metadata block, back-link, and family
+                    commentary sidebar into each recipe page.
 """
 
 import pathlib
@@ -131,8 +132,43 @@ hide:
     (docs_dir / "index.md").write_text(index_md, encoding="utf-8")
 
 
+def _render_commentary(commentary) -> str:
+    """Render the family commentary sidebar as a Markdown/HTML fragment.
+
+    `commentary` is the optional frontmatter list of {author, text} entries.
+    Returns "" if there's nothing worth showing.
+    """
+    if not isinstance(commentary, list):
+        return ""
+
+    comments = []
+    for entry in commentary:
+        if not isinstance(entry, dict):
+            continue
+        author = entry.get("author")
+        text = entry.get("text")
+        if not author or not text:
+            continue
+        comments.append(
+            f'<div class="comment" markdown="1">\n\n'
+            f"**{author}**\n\n"
+            f"{text}\n\n"
+            f"</div>\n"
+        )
+
+    if not comments:
+        return ""
+
+    return (
+        '\n<aside class="recipe-commentary" markdown="1">\n\n'
+        "#### Family notes\n\n"
+        + "\n".join(comments)
+        + "\n</aside>\n"
+    )
+
+
 def on_page_markdown(markdown, page, config, files, **kwargs):
-    """Inject a metadata block and back-link at the top of every recipe page."""
+    """Inject a metadata block, back-link, and family commentary sidebar."""
     if not page.file.src_path.startswith("recipes/"):
         return markdown
 
@@ -160,11 +196,22 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
         "</div>\n\n"
     )
 
-    # Insert immediately after the first `# Heading` line
+    commentary_html = _render_commentary(meta.get("commentary"))
+
+    # Insert immediately after the first `# Heading` line. If there's family
+    # commentary, wrap everything that follows in a two-column layout with
+    # the commentary as a sidebar on the right.
     lines = markdown.splitlines(keepends=True)
     for i, line in enumerate(lines):
         if line.startswith("# "):
             lines.insert(i + 1, meta_block)
+            if commentary_html:
+                lines.insert(
+                    i + 2,
+                    '\n<div class="recipe-layout" markdown="1">\n\n'
+                    '<div class="recipe-content" markdown="1">\n\n',
+                )
+                lines.append("\n</div>\n\n" + commentary_html + "\n</div>\n")
             break
 
     return "".join(lines)

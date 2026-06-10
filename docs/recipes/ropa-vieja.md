@@ -4,6 +4,11 @@ author: "Ceci"
 course: "entree"
 servings: "8 servings"
 cook_time: "20 min"
+commentary:
+  - author: "Dad"
+    text: "This is straight out of the original cookbook. Glad someone finally wrote it down properly."
+  - author: "Alex"
+    text: "Make extra — it's even better the next day over rice."
 ---
 
 # Ropa Vieja

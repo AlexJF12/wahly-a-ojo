@@ -4,6 +4,13 @@ author: "Nate"
 course: "other"
 servings: "enough for a few sandwiches"
 prep_time: "15 min"
+commentary:
+  - author: "Alex"
+    text: "The dill version is the one. Don't @ me, grape people."
+  - author: "Ceci"
+    text: "Counterpoint: grapes and walnuts. We can agree to disagree."
+  - author: "Emily Gordon"
+    text: "Pickle juice > lemon juice, fight me."
 ---
 
 # Chicken Salad

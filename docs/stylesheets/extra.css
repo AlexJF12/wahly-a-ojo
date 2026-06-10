@@ -228,6 +228,79 @@
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
 }
 
+/* ── Recipe layout with family commentary sidebar ──────────── */
+
+.md-content .md-typeset .recipe-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  max-width: none;
+}
+
+.recipe-content {
+  flex: 1 1 0;
+  min-width: 0;
+  max-width: 65ch;
+}
+
+.recipe-commentary {
+  flex: 0 0 260px;
+  width: 260px;
+  position: sticky;
+  top: 1.5rem;
+  background: var(--accent-light);
+  border-radius: var(--card-radius);
+  padding: 1rem 1.25rem;
+  font-size: 0.9rem;
+}
+
+.recipe-commentary h4 {
+  margin: 0 0 0.75rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.comment {
+  padding: 0.75rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+.comment:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.comment p:first-child {
+  margin: 0 0 0.2rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #1a1a1a;
+}
+
+.comment p:last-child {
+  margin: 0;
+  color: #444;
+  line-height: 1.5;
+}
+
+@media (max-width: 900px) {
+  .md-content .md-typeset .recipe-layout {
+    flex-direction: column;
+  }
+
+  .recipe-content {
+    max-width: 72ch;
+  }
+
+  .recipe-commentary {
+    width: 100%;
+    position: static;
+  }
+}
+
 /* ── Filtered-out cards ────────────────────────────────────── */
 
 .recipe-card.hidden {

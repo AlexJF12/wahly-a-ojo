@@ -90,6 +90,21 @@ def validate(path: pathlib.Path) -> tuple[list[str], list[str]]:
             "so readers know the yield."
         )
 
+    # Optional family commentary
+    commentary = meta.get("commentary")
+    if commentary is not None:
+        if not isinstance(commentary, list):
+            errors.append(
+                '"commentary" must be a list of {author, text} entries.'
+            )
+        else:
+            for idx, entry in enumerate(commentary, start=1):
+                if not isinstance(entry, dict) or not entry.get("author") or not entry.get("text"):
+                    warnings.append(
+                        f'"commentary" entry {idx} is missing "author" or "text" '
+                        "and will be skipped."
+                    )
+
     # ── Body sections ─────────────────────────────────────────
     body = content[fm.end():]
 

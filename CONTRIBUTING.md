@@ -75,6 +75,23 @@ Optional extra context, tips, or variations.
 | `prep_time` | Optional   | Active prep time (e.g. `"20 min"`) |
 | `cook_time` | Optional   | Cooking/baking time (e.g. `"45 min"`) |
 
+### Family commentary (optional)
+
+Want to add a sibling's two cents? Add a `commentary` list to the
+frontmatter — it renders as a "Family notes" sidebar next to the recipe:
+
+```yaml
+commentary:
+  - author: "Alex"
+    text: "I always double the garlic. Don't @ me."
+  - author: "Ceci"
+    text: "Agreed, but go easy on the salt if you're using canned beans."
+```
+
+Each entry needs an `author` and a `text`. Keep it short — these are quick
+asides, not a second set of instructions. Markdown (like *emphasis* or
+**bold**) works in `text`.
+
 ### Allowed `course` values
 
 | Value       | What it covers |
