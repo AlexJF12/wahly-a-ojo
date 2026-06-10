@@ -11,6 +11,9 @@ formatted recipe Markdown file in the cookbook style.
 
 **Supported formats:** `.mp3`, `.m4a`, `.wav`, `.webm`, `.ogg`, `.flac`
 
+Drop recordings in a local `audio/` folder at the repo root — it's gitignored,
+so recordings stay on your machine and never get committed.
+
 ## Options
 
 ### `--tone` (default: `casual`)

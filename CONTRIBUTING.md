@@ -4,6 +4,23 @@ Everyone is welcome to add a recipe. Here's the full process.
 
 ---
 
+## Adding a recipe from a voice recording
+
+If it's easier to talk through a recipe than to write it out, drop an audio
+file in a local `audio/` folder at the repo root (it's gitignored — recordings
+never get committed) and run:
+
+```
+/recipe-from-audio audio/my-recording.m4a --author "Your Name"
+```
+
+This transcribes the recording and writes a formatted recipe to
+`docs/recipes/<slug>.md`. From there, jump to [Add photos](#2-add-photos) and
+[Open a pull request](#3-open-a-pull-request) below — review the generated
+text first, since transcription isn't perfect.
+
+---
+
 ## Adding a recipe
 
 ### 1. Write your recipe

@@ -13,6 +13,9 @@ a properly formatted cookbook Markdown file.
 Usage:
     uv run scripts/transcribe-recipe.py <audio-file> [options]
 
+Drop recordings in a local `audio/` folder at the repo root — it's
+gitignored, so recordings stay on your machine and never get committed.
+
 Options:
     --author "Name"          Author name for the frontmatter (default: Unknown)
     --model base             Whisper model: tiny, base, small, medium, large (default: base)

@@ -1,5 +1,6 @@
 site/
 output/*.pdf
+audio/
 __pycache__/
 *.pyc
 .DS_Store
