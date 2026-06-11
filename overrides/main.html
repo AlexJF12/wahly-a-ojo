@@ -3,3 +3,10 @@
 {% block site_nav %}
 {# Remove left navigation sidebar — the homepage card grid is the index #}
 {% endblock %}
+
+{% block extrahead %}
+{{ super() }}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+{% endblock %}

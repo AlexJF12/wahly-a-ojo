@@ -2,28 +2,65 @@
    Wahly a Ojo — site styles
    ============================================================ */
 
-/* ── Typography & body ─────────────────────────────────────── */
+/* ── Design tokens ──────────────────────────────────────────── */
 
 :root {
-  --accent: #e64a19;
-  --accent-light: #fff3ef;
-  --text-muted: #666;
-  --border: #e8e8e8;
-  --card-radius: 12px;
+  --bg: #faf8f4;
+  --surface: #ffffff;
+  --ink: #221f1c;
+  --accent: #c1502e;
+  --accent-light: #f6e6dd;
+  --text-muted: #7a766f;
+  --border: #ece5da;
+  --card-radius: 14px;
+  --font-display: "Space Grotesk", "Inter", sans-serif;
+}
+
+/* Re-tint Material's own theme variables to match */
+:root {
+  --md-default-bg-color: var(--bg);
+  --md-primary-fg-color: var(--bg);
+  --md-accent-fg-color: var(--accent);
+  --md-accent-fg-color--transparent: rgba(193, 80, 46, 0.1);
+  --md-typeset-a-color: var(--accent);
+}
+
+/* ── Typography ────────────────────────────────────────────── */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.cookbook-hero h1,
+.recipe-card__title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 /* ── Homepage hero ─────────────────────────────────────────── */
 
 .cookbook-hero {
   text-align: center;
-  padding: 3.5rem 1rem 2rem;
+  padding: 4rem 1rem 2.5rem;
 }
 
 .cookbook-hero h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
-  line-height: 1.15;
+  margin-bottom: 0.6rem;
+  line-height: 1.1;
+}
+
+.cookbook-hero em {
+  font-style: italic;
+  color: var(--accent);
 }
 
 .cookbook-hero p {
@@ -46,7 +83,7 @@
   padding: 0.35rem 1rem;
   border: 2px solid var(--border);
   border-radius: 999px;
-  background: #fff;
+  background: var(--surface);
   color: var(--text-muted);
   font-size: 0.875rem;
   font-weight: 500;
@@ -86,24 +123,25 @@
 .recipe-card {
   display: flex;
   flex-direction: column;
-  background: #fff;
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--card-radius);
   overflow: hidden;
   text-decoration: none !important;
   color: inherit;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
 }
 
 .recipe-card:hover {
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 30px rgba(193, 80, 46, 0.12);
+  border-color: var(--accent);
   transform: translateY(-3px);
 }
 
 .recipe-card__image {
   aspect-ratio: 4 / 3;
   overflow: hidden;
-  background: #f5f0eb;
+  background: var(--accent-light);
 }
 
 .recipe-card__image img {
@@ -121,7 +159,7 @@
 .recipe-card__no-image {
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #f5f0eb 0%, #e8ddd0 100%);
+  background: linear-gradient(135deg, var(--accent-light) 0%, #efe1d2 100%);
 }
 
 .recipe-card__body {
@@ -139,9 +177,7 @@
 .recipe-card__title {
   margin: 0;
   font-size: 1.05rem;
-  font-weight: 600;
   line-height: 1.35;
-  color: #1a1a1a;
 }
 
 .recipe-card__author {
@@ -153,10 +189,11 @@
 .recipe-card__time {
   margin: 0;
   font-size: 0.78rem;
-  color: #999;
+  color: var(--text-muted);
+  opacity: 0.8;
 }
 
-/* ── Course badge ──────────────────────────────────────────── */
+/* ── Course badges ─────────────────────────────────────────── */
 
 .course-badge {
   display: inline-block;
@@ -169,6 +206,17 @@
   background: var(--accent-light);
   color: var(--accent);
 }
+
+/* Each course gets its own muted, food-magazine-style hue */
+.course-badge.course-appetizer { background: #f1ecf7; color: #7c5fa6; }
+.course-badge.course-bread     { background: #f7efdd; color: #a8762e; }
+.course-badge.course-breakfast { background: #faf2d6; color: #b8902c; }
+.course-badge.course-dessert   { background: #f9e7ed; color: #b35577; }
+.course-badge.course-drink     { background: #e6f1f1; color: #3f7f80; }
+.course-badge.course-entree    { background: #f6e6dd; color: #c1502e; }
+.course-badge.course-side      { background: #eaf1e3; color: #66854f; }
+.course-badge.course-soup      { background: #f3e9dd; color: #9c6a3e; }
+.course-badge.course-other     { background: #efeeea; color: #75726b; }
 
 /* ── Recipe page metadata block ────────────────────────────── */
 
@@ -208,7 +256,7 @@
 
 .meta-item {
   font-size: 0.85rem;
-  color: #555;
+  color: var(--text-muted);
 }
 
 /* ── Recipe page content ───────────────────────────────────── */
@@ -277,7 +325,7 @@
   margin: 0 0 0.2rem;
   font-weight: 600;
   font-size: 0.85rem;
-  color: #1a1a1a;
+  color: var(--ink);
 }
 
 .comment p:last-child {
@@ -310,6 +358,6 @@
 /* ── Responsive adjustments ────────────────────────────────── */
 
 @media (max-width: 480px) {
-  .cookbook-hero h1 { font-size: 1.9rem; }
+  .cookbook-hero h1 { font-size: 2rem; }
   .cookbook-hero p  { font-size: 1rem; }
 }
