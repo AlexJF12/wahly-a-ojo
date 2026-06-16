@@ -135,7 +135,7 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
 
     meta_block = (
         '\n<div class="recipe-meta">\n'
-        '  <a href="../" class="back-link">&larr; All Recipes</a>\n'
+        '  <a href="../../" class="back-link">&larr; All Recipes</a>\n'
         f'  <div class="meta-items">{"".join(items)}</div>\n'
         "</div>\n\n"
     )

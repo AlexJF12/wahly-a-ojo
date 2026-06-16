@@ -22,7 +22,7 @@ hide:
   </div>
 </a>
 <a class="recipe-card" href="recipes/ropa-vieja/" data-course="entree">
-  <div class="recipe-card__image"><img src="images/ropa-vieja/filename.jpg" alt="Ropa Vieja" loading="lazy"></div>
+  <div class="recipe-card__image"><img src="images/ropa-vieja/ropa_vieja_1.jpeg" alt="Ropa Vieja" loading="lazy"></div>
   <div class="recipe-card__body">
     <div class="recipe-card__top">
       <span class="course-badge course-entree">Entree</span>
