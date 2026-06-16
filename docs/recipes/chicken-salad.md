@@ -8,8 +8,6 @@ prep_time: "15 min"
 
 # Chicken Salad
 
-![Chicken salad](../images/chicken-salad/hero.jpg)
-
 Rotisserie chicken from the store is fine. Leftover roast chicken is better. Whatever you have works.
 
 ## Ingredients
@@ -41,6 +39,10 @@ Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chive
 
 5. Taste, adjust, done. Let it sit in the fridge for a bit if you can.
 
-## Notes
+## Comments
 
 Good on toast, on crackers, or just eaten out of the container. The dill version and the grape-and-walnut version are basically different dishes. Both are worth making.
+
+## Photos
+
+![Chicken salad](../images/chicken-salad/hero.jpg)

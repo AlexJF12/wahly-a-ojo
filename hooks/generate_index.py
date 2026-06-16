@@ -9,11 +9,6 @@ import pathlib
 import re
 import yaml
 
-COURSE_ORDER = [
-    "appetizer", "bread", "breakfast", "dessert",
-    "drink", "entree", "side", "soup", "other",
-]
-
 
 def _parse_recipe(path: pathlib.Path) -> dict | None:
     content = path.read_text(encoding="utf-8")
@@ -64,18 +59,6 @@ def on_pre_build(config, **kwargs):
     if not recipes:
         return
 
-    # Collect courses that actually appear, in canonical order
-    present = {r["course"] for r in recipes}
-    courses = [c for c in COURSE_ORDER if c in present]
-    for c in present:
-        if c not in courses:
-            courses.append(c)
-
-    # Filter pills
-    pills = '<button class="filter-pill active" data-filter="all">All</button>\n'
-    for c in courses:
-        pills += f'  <button class="filter-pill" data-filter="{c}">{c.title()}</button>\n'
-
     # Recipe cards
     cards = ""
     for r in recipes:
@@ -120,9 +103,6 @@ hide:
   <h1>Wahly a Ojo</h1>
   <p>A community cookbook. Recipes cooked <em>a ojo</em>&thinsp;&mdash;&thinsp;by sight, by feel, by taste.</p>
 </div>
-
-<div class="cookbook-filters">
-{pills}</div>
 
 <div class="recipe-grid" id="recipe-grid">
 {cards}</div>

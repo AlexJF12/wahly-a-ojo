@@ -35,6 +35,12 @@ cook_time: "20 min"
 
 6. Serve with white rice and a fresh salad.
 
-## Notes
+## Comments
 
 The meat needs to be pre-cooked — leftover from a broth or stew is ideal. The more flavor already in the meat, the better the ropa vieja.
+
+## Photos
+
+<!-- Add photos here when available. Use the pattern:
+![Description](../images/ropa-vieja/filename.jpg)
+-->

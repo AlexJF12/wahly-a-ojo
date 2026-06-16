@@ -33,39 +33,6 @@
   margin: 0 auto;
 }
 
-/* ── Filter pills ──────────────────────────────────────────── */
-
-.cookbook-filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 2rem;
-}
-
-.filter-pill {
-  padding: 0.35rem 1rem;
-  border: 2px solid var(--border);
-  border-radius: 999px;
-  background: #fff;
-  color: var(--text-muted);
-  font-size: 0.875rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: border-color 0.15s, color 0.15s, background 0.15s;
-  line-height: 1.4;
-}
-
-.filter-pill:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-
-.filter-pill.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
-}
-
 /* ── Recipe card grid ──────────────────────────────────────── */
 
 .recipe-grid {
@@ -226,12 +193,6 @@
   margin: 1.5rem auto;
   border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
-}
-
-/* ── Filtered-out cards ────────────────────────────────────── */
-
-.recipe-card.hidden {
-  display: none;
 }
 
 /* ── Responsive adjustments ────────────────────────────────── */
