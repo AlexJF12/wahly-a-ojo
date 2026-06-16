@@ -8,6 +8,10 @@ prep_time: "15 min"
 
 # Chicken Salad
 
+![Chicken salad](../images/chicken-salad/hero.jpg)
+
+![Chicken salad](../images/chicken-salad/chicken_salad_1.jpeg)
+
 Rotisserie chicken from the store is fine. Leftover roast chicken is better. Whatever you have works.
 
 ## Ingredients
@@ -39,10 +43,31 @@ Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chive
 
 5. Taste, adjust, done. Let it sit in the fridge for a bit if you can.
 
-## Comments
+## Unsolicited Opinions
 
-Good on toast, on crackers, or just eaten out of the container. The dill version and the grape-and-walnut version are basically different dishes. Both are worth making.
+**Carolyn:** Nate wrote a recipe that is essentially just vibes and I respect it deeply.
 
-## Photos
+**Alex:** "Mayo — enough to make it creamy, probably more than you think." That is doing a lot of work as an instruction.
 
-![Chicken salad](../images/chicken-salad/hero.jpg)
+**Carolyn:** It's accurate though. People always under-mayo.
+
+**Alex:** I made the dill version and the grape-and-walnut version in the same week.
+
+**Carolyn:** Are they the same dish?
+
+**Alex:** Not remotely. They should have different names.
+
+**Carolyn:** "Herb Situation" and "The Fancy One."
+
+**Alex:** Do not skip the acid at the end. I skipped it once. The salad knew.
+
+**Carolyn:** What does that mean?
+
+**Alex:** It tasted sad. Just use the pickle juice.
+
+**Carolyn:** Make the dill version first. Put it on sourdough.
+
+**Alex:** We don't have sourdough anymore.
+
+**Carolyn:** ...
+

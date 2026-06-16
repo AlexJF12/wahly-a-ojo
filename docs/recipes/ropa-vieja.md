@@ -8,6 +8,8 @@ cook_time: "20 min"
 
 # Ropa Vieja
 
+![Ropa Vieja](../images/ropa-vieja/ropa_vieja_1.jpeg)
+
 ## Ingredients
 
 - 2 lbs flank steak, cooked ahead of time in broth or soup
@@ -35,12 +37,25 @@ cook_time: "20 min"
 
 6. Serve with white rice and a fresh salad.
 
-## Comments
+## Unsolicited Opinions
 
-The meat needs to be pre-cooked — leftover from a broth or stew is ideal. The more flavor already in the meat, the better the ropa vieja.
+**Alex:** The pre-cooked meat thing sounds like a footnote but it's actually the whole recipe. Use leftovers from a broth. Do not skip this.
 
-## Photos
+**Carolyn:** I made it with freshly cooked steak the first time. It was fine. It was not this.
 
-<!-- Add photos here when available. Use the pattern:
-![Description](../images/ropa-vieja/filename.jpg)
--->
+**Alex:** The wine going in with everything at once felt wrong to me and then it was perfect. Ceci knew what she was doing.
+
+**Carolyn:** I'd add more garlic. Two cloves is a suggestion, not a limit.
+
+**Alex:** You say that about everything.
+
+**Carolyn:** And I'm right every time. Also — blend half the roasted peppers into the sauce and lay the other half on top. You're welcome.
+
+**Alex:** That's not in the recipe.
+
+**Carolyn:** It is now.
+
+**Alex:** Serve it with white rice. Don't try to be interesting about it.
+
+**Carolyn:** 10/10. Make a big batch. It's better the next day anyway.
+
