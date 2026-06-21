@@ -31,30 +31,12 @@ prep_time: "20 min"
 
 ## Unsolicited Opinions
 
-**Alex:** I'm just going to say it. The cucumber doesn't need to be in there.
+**Alex:** The cucumber doesn't need to be in there. It waters it down. The tomato and pepper are doing all the work.
 
-**Carolyn:** You cannot make gazpacho without cucumber. That is a tomato smoothie.
-
-**Alex:** A good tomato smoothie! The cucumber waters it down. The tomato and pepper are doing all the work.
-
-**Carolyn:** The cucumber is what makes it refreshing. Without it you just have cold marinara.
-
-**Alex:** Cold marinara is a wild exaggeration and you know it.
-
-**Carolyn:** Take the cucumber out and tell me it doesn't taste like something is missing.
-
-**Alex:** I did. It tasted more like tomato. Which is what I wanted.
-
-**Carolyn:** Ceci put cucumber in the recipe for a reason. Are you arguing with Ceci?
+**Carolyn:** Without cucumber it's cold marinara. Ceci put it in for a reason — are you arguing with Ceci?
 
 **Alex:** I'm not arguing with Ceci. I'm arguing with the cucumber.
 
-**Carolyn:** The cucumber stays. Use the good ones from the farmer's market and you won't complain.
-
-**Alex:** I'll use them. Under protest.
-
-**Carolyn:** Noted. Also — don't skip the bread. It gives it body. And use real sherry vinegar, not red wine vinegar pretending to be fancy.
+**Carolyn:** The cucumber stays. Don't skip the bread either — it gives it body. And use real sherry vinegar, not red wine vinegar pretending to be fancy.
 
 **Alex:** That part I agree with completely.
-
-**Carolyn:** Progress.
