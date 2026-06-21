@@ -23,19 +23,11 @@ prep_time: "20 min"
 
 ## Instructions
 
-1. Soak the bread in water for a few minutes until soft. Squeeze out the excess.
+1. Soak the bread in water until soft, then squeeze it out. Throw everything — tomatoes, cucumber, pepper, onion, garlic, bread — into a blender and blend until smooth.
 
-2. Combine the tomatoes, cucumber, green pepper, onion, garlic, and soaked bread in a blender. Blend until smooth.
+2. Drizzle in the olive oil and sherry vinegar while it's running. Season with salt. If it's too thick, add cold water a little at a time until it pours easily but still feels substantial. Strain it if you want it silky, skip if you like some texture.
 
-3. With the blender running, drizzle in the olive oil and sherry vinegar.
-
-4. Season with salt. If the soup is too thick, add cold water a little at a time until you reach the consistency you want — it should pour easily but still feel substantial.
-
-5. Strain through a fine mesh sieve if you want it silky. Skip if you like a little texture.
-
-6. Refrigerate for at least two hours. It needs to be very cold.
-
-7. Serve in bowls with a drizzle of olive oil. Chopped cucumber, pepper, and croutons on the side if you want to be proper about it.
+3. Refrigerate for at least two hours — it needs to be very cold. Serve with a drizzle of olive oil and whatever you want on top: chopped cucumber, pepper, croutons.
 
 ## Unsolicited Opinions
 
