@@ -79,125 +79,68 @@
   line-height: 1.6;
 }
 
-/* ── Recipe card grid ──────────────────────────────────────── */
+/* ── Book-style table of contents ─────────────────────────── */
 
-.recipe-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.75rem;
+.toc-book {
+  max-width: 540px;
+  margin: 0 auto;
   padding-bottom: 4rem;
 }
 
-@media (max-width: 960px) {
-  .recipe-grid { grid-template-columns: repeat(2, 1fr); }
+.toc-chapter {
+  margin-bottom: 2rem;
 }
 
-@media (max-width: 600px) {
-  .recipe-grid {
-    grid-template-columns: 1fr;
-    gap: 1.25rem;
-  }
-}
-
-/* ── Recipe card ──────────────────────────────────────────── */
-
-@keyframes cardIn {
-  from { opacity: 0; transform: translateY(16px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
-
-.recipe-card {
-  display: flex;
-  flex-direction: column;
-  background: var(--bg-card);
-  border-radius: var(--card-radius);
-  overflow: hidden;
-  text-decoration: none !important;
-  color: inherit;
-  box-shadow: var(--shadow-sm);
-  transition: box-shadow 0.25s var(--ease), transform 0.25s var(--ease);
-  animation: cardIn 0.45s var(--ease) both;
-}
-
-.recipe-card:nth-child(1) { animation-delay: 0.04s; }
-.recipe-card:nth-child(2) { animation-delay: 0.08s; }
-.recipe-card:nth-child(3) { animation-delay: 0.12s; }
-.recipe-card:nth-child(4) { animation-delay: 0.16s; }
-.recipe-card:nth-child(5) { animation-delay: 0.20s; }
-.recipe-card:nth-child(6) { animation-delay: 0.24s; }
-.recipe-card:nth-child(7) { animation-delay: 0.28s; }
-.recipe-card:nth-child(8) { animation-delay: 0.32s; }
-.recipe-card:nth-child(9) { animation-delay: 0.36s; }
-
-.recipe-card:hover {
-  box-shadow: var(--shadow-lg);
-  transform: translateY(-4px);
-}
-
-.recipe-card__image {
-  aspect-ratio: 4 / 3;
-  overflow: hidden;
-  background: linear-gradient(135deg, #f5f0eb 0%, #ebe3d9 100%);
-}
-
-[data-md-color-scheme="slate"] .recipe-card__image {
-  background: linear-gradient(135deg, #2a2725 0%, #33302d 100%);
-}
-
-.recipe-card__image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.4s var(--ease);
-}
-
-.recipe-card:hover .recipe-card__image img {
-  transform: scale(1.05);
-}
-
-.recipe-card__no-image {
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(135deg, #f5f0eb 0%, #e8ddd0 100%);
-}
-
-[data-md-color-scheme="slate"] .recipe-card__no-image {
-  background: linear-gradient(135deg, #2a2725 0%, #33302d 100%);
-}
-
-.recipe-card__body {
-  padding: 1.15rem 1.25rem 1.35rem;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-}
-
-.recipe-card__top {
-  margin-bottom: 0.2rem;
-}
-
-.recipe-card__title {
-  margin: 0;
-  font-size: 1.1rem;
+.toc-chapter__heading {
+  font-size: 1.3rem;
   font-weight: 700;
-  line-height: 1.35;
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
   color: var(--text);
 }
 
-.recipe-card__author {
-  margin: 0;
-  font-size: 0.84rem;
-  color: var(--text-secondary);
+.toc-chapter__number {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 0.15rem;
 }
 
-.recipe-card__time {
-  margin: 0;
-  font-size: 0.78rem;
+.toc-entry {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.45rem 0;
+  text-decoration: none !important;
+  color: inherit;
+  transition: color 0.15s var(--ease);
+}
+
+.toc-entry:hover {
+  color: var(--accent);
+}
+
+.toc-entry__title {
+  font-size: 1.05rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.toc-entry__dots {
+  flex: 1;
+  border-bottom: 1px dotted var(--border);
+  min-width: 2rem;
+  margin-bottom: 0.25em;
+}
+
+.toc-entry__detail {
+  font-size: 0.82rem;
   color: var(--text-muted);
-  margin-top: auto;
-  padding-top: 0.4rem;
+  white-space: nowrap;
 }
 
 /* ── Course badge ──────────────────────────────────────────── */
@@ -349,5 +292,4 @@
   .cookbook-hero { padding: 3rem 1rem 1.5rem; }
   .cookbook-hero h1 { font-size: 2.1rem; }
   .cookbook-hero p { font-size: 1rem; }
-  .recipe-card__body { padding: 1rem; }
 }

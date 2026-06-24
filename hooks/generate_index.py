@@ -44,7 +44,7 @@ def _parse_recipe(path: pathlib.Path) -> dict | None:
 
 
 def on_pre_build(config, **kwargs):
-    """Regenerate docs/index.md with the full recipe card grid."""
+    """Regenerate docs/index.md with a book-style table of contents."""
     docs_dir = pathlib.Path(config["docs_dir"])
     recipes_dir = docs_dir / "recipes"
     if not recipes_dir.exists():
@@ -59,38 +59,40 @@ def on_pre_build(config, **kwargs):
     if not recipes:
         return
 
-    # Recipe cards
-    cards = ""
+    by_author: dict[str, list[dict]] = {}
     for r in recipes:
-        time_parts = []
-        if r["prep_time"]:
-            time_parts.append(f"{r['prep_time']} prep")
-        if r["cook_time"]:
-            time_parts.append(f"{r['cook_time']} cook")
-        time_html = (
-            f'<p class="recipe-card__time">{" &middot; ".join(time_parts)}</p>'
-            if time_parts else ""
-        )
+        author = r["author"] or "Unknown"
+        by_author.setdefault(author, []).append(r)
 
-        img_html = (
-            f'<img src="{r["hero"]}" alt="{r["title"]}" loading="lazy">'
-            if r["hero"]
-            else '<div class="recipe-card__no-image"></div>'
-        )
+    chapters = ""
+    for i, (author, author_recipes) in enumerate(sorted(by_author.items()), 1):
+        entries = ""
+        for r in author_recipes:
+            detail_parts = []
+            if r["course"] and r["course"] != "other":
+                detail_parts.append(r["course"].title())
+            if r["prep_time"]:
+                detail_parts.append(f'{r["prep_time"]} prep')
+            if r["cook_time"]:
+                detail_parts.append(f'{r["cook_time"]} cook')
+            detail = " · ".join(detail_parts)
 
-        cards += f"""\
-<a class="recipe-card" href="recipes/{r['slug']}/" data-course="{r['course']}">
-  <div class="recipe-card__image">{img_html}</div>
-  <div class="recipe-card__body">
-    <div class="recipe-card__top">
-      <span class="course-badge course-{r['course']}">{r['course'].title()}</span>
-    </div>
-    <h3 class="recipe-card__title">{r['title']}</h3>
-    <p class="recipe-card__author">By {r['author']}</p>
-    {time_html}
-  </div>
-</a>
-"""
+            entries += (
+                f'  <a class="toc-entry" href="recipes/{r["slug"]}/">'
+                f'<span class="toc-entry__title">{r["title"]}</span>'
+                f'<span class="toc-entry__dots"></span>'
+                f'<span class="toc-entry__detail">{detail}</span>'
+                f'</a>\n'
+            )
+
+        chapters += (
+            f'<div class="toc-chapter">\n'
+            f'  <h2 class="toc-chapter__heading">'
+            f'<span class="toc-chapter__number">Chapter {i}</span>'
+            f'{author}</h2>\n'
+            f'{entries}'
+            f'</div>\n\n'
+        )
 
     index_md = f"""\
 ---
@@ -104,8 +106,8 @@ hide:
   <p>A community cookbook. Recipes cooked <em>a ojo</em>&thinsp;&mdash;&thinsp;by sight, by feel, by taste.</p>
 </div>
 
-<div class="recipe-grid" id="recipe-grid">
-{cards}</div>
+<div class="toc-book">
+{chapters}</div>
 """
 
     (docs_dir / "index.md").write_text(index_md, encoding="utf-8")
