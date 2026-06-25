@@ -38,22 +38,22 @@ Instant Pot black beans from dried. No soaking. The cinnamon is not optional.
 
 **Carolyn:** Cinnamon in black beans.
 
-**Alex:** Cinnamon in black beans. It's not sweet. It's warm. It rounds out the cumin and makes the whole pot taste like it took way longer than it did.
+**Nate:** I made the same face. It's not sweet — it's warm. It rounds out the cumin and makes the whole pot taste like it took way longer than it did.
 
-**Carolyn:** No soaking?
+**Carolyn:** And no soaking?
 
-**Alex:** The Instant Pot is the soaking. That's the whole point of using it.
+**Nate:** The Instant Pot is the soaking. That's the whole point of using it.
 
 **Carolyn:** My grandmother would like a word.
 
-**Alex:** Your grandmother didn't have a pressure cooker that also makes rice.
+**Nate:** Your grandmother didn't have a pressure cooker that also makes rice.
 
 **Carolyn:** She had patience. Which is a thing you could try sometime.
 
-**Alex:** I have patience. I also have beans in 45 minutes.
+**Nate:** Salt these harder than you think, by the way. Dried beans drink it up — taste at the end and they'll seem flat right until that last pinch, then the whole pot wakes up.
 
 **Carolyn:** These are genuinely good. The cinnamon thing — I was skeptical and I was wrong.
 
-**Alex:** Write that down too.
+**Nate:** Write that down too.
 
 **Carolyn:** Don't push it.
