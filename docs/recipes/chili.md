@@ -43,20 +43,18 @@ Ground turkey and ground beef, roughly half and half. The turkey keeps it from b
 
 ## Unsolicited Opinions
 
-**Carolyn:** Cocoa powder AND coffee. You just want people to ask you about your chili.
+**Carolyn:** Cocoa powder AND coffee. He just wants people to ask him about his chili.
 
-**Alex:** I want people to eat my chili and then ask me about my chili. There's a difference.
+**Tim:** Maybe, but it works. The cocoa adds depth, the coffee's bitterness balances the sweetness from the tomatoes. Don't skip either.
 
-**Carolyn:** The difference is ego with a side of cumin.
+**Carolyn:** Roasting your own poblanos when canned chipotles exist is a choice.
 
-**Alex:** The cocoa adds depth. The coffee adds bitterness that balances the sweetness from the tomatoes. This is not controversial.
+**Tim:** A better one. The smoke is cleaner — you taste the pepper, not just adobo sauce. Char them until the skins are properly black and blistered all over, though, or they won't peel and you'll be picking burnt flakes out for ten minutes.
 
-**Carolyn:** Roasting your own poblanos when you could just use canned chipotles is a choice.
+**Carolyn:** Fine. The turkey-beef mix is actually smart. I'll give him that.
 
-**Alex:** It's a better choice. The smoke is cleaner. You can taste the pepper, not just the adobo sauce.
+**Tim:** Half and half is the move. The turkey keeps it from sitting like a brick, the beef keeps it from tasting like health food.
 
-**Carolyn:** Fine. The turkey-beef mix is actually smart. I'll give you that.
+**Carolyn:** Look at you, defending a man who puts coffee in chili.
 
-**Alex:** Write that down. She said I was smart.
-
-**Carolyn:** I said the mix was smart. You are a person who puts coffee in chili.
+**Tim:** I'm defending the chili. He's on his own.
