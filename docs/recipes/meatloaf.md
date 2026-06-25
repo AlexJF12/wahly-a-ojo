@@ -8,6 +8,8 @@ cook_time: "1 hr"
 
 # Meatloaf
 
+![Meatloaf](../images/meatloaf/meatloaf.jpg)
+
 ## Ingredients
 
 - 2 lbs ground beef (80/20)

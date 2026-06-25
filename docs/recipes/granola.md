@@ -8,6 +8,8 @@ cook_time: "35 min"
 
 # Granola
 
+![Granola](../images/granola/granola.jpg)
+
 Olive oil instead of butter. Pistachios and walnuts. This is the granola.
 
 ## Ingredients

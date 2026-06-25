@@ -8,6 +8,8 @@ cook_time: "1 hr"
 
 # Matzoh Ball Soup
 
+![Matzoh ball soup](../images/matzoh-ball-soup/matzoh-ball-soup.jpg)
+
 ## Ingredients
 
 ### Matzoh Balls

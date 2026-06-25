@@ -8,6 +8,8 @@ cook_time: "45 min"
 
 # Black Beans
 
+![Black beans](../images/black-beans/frijoles-negros.jpg)
+
 Instant Pot black beans from dried. No soaking. The cinnamon is not optional.
 
 ## Ingredients
