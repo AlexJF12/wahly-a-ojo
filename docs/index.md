@@ -23,21 +23,35 @@ hide:
 </div>
 
 <div class="toc-chapter">
-  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 3</span>Ceci</h2>
-  <a class="toc-entry" href="recipes/gazpacho/"><span class="toc-entry__title">Gazpacho</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Starter · 20 min prep</span></a>
-  <a class="toc-entry" href="recipes/ropa-vieja/"><span class="toc-entry__title">Ropa Vieja</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 20 min cook</span></a>
+  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 3</span>Carolyn</h2>
+  <a class="toc-entry" href="recipes/breakfast-smoothie/"><span class="toc-entry__title">Breakfast Smoothie</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Breakfast · 5 min prep</span></a>
+  <a class="toc-entry" href="recipes/cinnamon-rolls/"><span class="toc-entry__title">Cinnamon Rolls</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Breakfast · 25 min cook</span></a>
+  <a class="toc-entry" href="recipes/sourdough-bread/"><span class="toc-entry__title">Sourdough Bread</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Bread · 45 min cook</span></a>
 </div>
 
 <div class="toc-chapter">
-  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 4</span>Emily</h2>
+  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 4</span>Ceci</h2>
+  <a class="toc-entry" href="recipes/gazpacho/"><span class="toc-entry__title">Gazpacho</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Starter · 20 min prep</span></a>
+  <a class="toc-entry" href="recipes/paella/"><span class="toc-entry__title">Paella</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 45 min cook</span></a>
+  <a class="toc-entry" href="recipes/ropa-vieja/"><span class="toc-entry__title">Ropa Vieja</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 20 min cook</span></a>
+  <a class="toc-entry" href="recipes/spanish-tortilla/"><span class="toc-entry__title">Spanish Tortilla</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 30 min cook</span></a>
+</div>
+
+<div class="toc-chapter">
+  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 5</span>Emily</h2>
   <a class="toc-entry" href="recipes/granola/"><span class="toc-entry__title">Granola</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Breakfast · 35 min cook</span></a>
   <a class="toc-entry" href="recipes/matzoh-ball-soup/"><span class="toc-entry__title">Matzoh Ball Soup</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 1 hr cook</span></a>
   <a class="toc-entry" href="recipes/rice-krispy-treats/"><span class="toc-entry__title">Rice Krispy Treats</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Dessert · 15 min cook</span></a>
 </div>
 
 <div class="toc-chapter">
-  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 5</span>Nate</h2>
+  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 6</span>Nate</h2>
   <a class="toc-entry" href="recipes/chicken-salad/"><span class="toc-entry__title">Chicken Salad</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">15 min prep</span></a>
+</div>
+
+<div class="toc-chapter">
+  <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 7</span>Tim</h2>
+  <a class="toc-entry" href="recipes/quesadilla/"><span class="toc-entry__title">Quesadilla</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">15 min cook</span></a>
 </div>
 
 </div>
