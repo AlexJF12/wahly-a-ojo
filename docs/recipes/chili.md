@@ -8,6 +8,8 @@ cook_time: "2 hrs"
 
 # Chili
 
+![Chili](../images/chili/chili-con-carne.jpg)
+
 Ground turkey and ground beef, roughly half and half. The turkey keeps it from being heavy, the beef keeps it from being boring.
 
 ## Ingredients

@@ -8,6 +8,8 @@ cook_time: "25 min"
 
 # Larb
 
+![Larb](../images/larb/larb.jpg)
+
 Ground turkey larb. The toasted rice powder is the whole thing — don't skip it, don't buy it pre-made.
 
 ## Ingredients

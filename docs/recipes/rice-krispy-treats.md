@@ -8,6 +8,8 @@ cook_time: "15 min"
 
 # Rice Krispy Treats
 
+![Rice Krispy treats](../images/rice-krispy-treats/rice-krispy-treats.jpg)
+
 ## Ingredients
 
 - 6 cups Rice Krispies cereal

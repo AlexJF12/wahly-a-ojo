@@ -8,6 +8,8 @@ prep_time: "20 min"
 
 # Gazpacho
 
+![Gazpacho](../images/gazpacho/gazpacho-andaluz.jpg)
+
 ## Ingredients
 
 - 2 lbs ripe tomatoes, roughly chopped
