@@ -32,6 +32,7 @@ hide:
 <div class="toc-chapter">
   <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 4</span>Ceci</h2>
   <a class="toc-entry" href="recipes/gazpacho/"><span class="toc-entry__title">Gazpacho</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Starter · 20 min prep</span></a>
+  <a class="toc-entry" href="recipes/mojo-pork/"><span class="toc-entry__title">Mojo Pork</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 3–4 hrs (oven) / 1 hr (Instant Pot) cook</span></a>
   <a class="toc-entry" href="recipes/paella/"><span class="toc-entry__title">Paella</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 45 min cook</span></a>
   <a class="toc-entry" href="recipes/ropa-vieja/"><span class="toc-entry__title">Ropa Vieja</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 20 min cook</span></a>
   <a class="toc-entry" href="recipes/spanish-tortilla/"><span class="toc-entry__title">Spanish Tortilla</span><span class="toc-entry__dots"></span><span class="toc-entry__detail">Entree · 30 min cook</span></a>
