@@ -103,7 +103,7 @@ hide:
 
 <div class="cookbook-hero">
   <h1>Wahly a Ojo</h1>
-  <p>A community cookbook. Recipes cooked <em>a ojo</em>&thinsp;&mdash;&thinsp;by sight, by feel, by taste.</p>
+  <p>A family cookbook. Recipes cooked <em>a ojo</em>.</p>
 </div>
 
 <div class="toc-book">
