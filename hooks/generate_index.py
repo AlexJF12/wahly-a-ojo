@@ -68,19 +68,35 @@ def on_pre_build(config, **kwargs):
     for i, (author, author_recipes) in enumerate(sorted(by_author.items()), 1):
         entries = ""
         for r in author_recipes:
+            # Time-based detail (course is shown as a colored badge instead).
+            # Keep it short for the single-line index: drop parentheticals and
+            # any "/ alternative" so verbose frontmatter times don't overflow.
+            def _short_time(value: str) -> str:
+                value = re.sub(r"\s*\([^)]*\)", "", value)
+                value = value.split("/")[0]
+                return value.strip()
+
             detail_parts = []
-            if r["course"] and r["course"] != "other":
-                detail_parts.append(r["course"].title())
             if r["prep_time"]:
-                detail_parts.append(f'{r["prep_time"]} prep')
+                detail_parts.append(f'{_short_time(r["prep_time"])} prep')
             if r["cook_time"]:
-                detail_parts.append(f'{r["cook_time"]} cook')
+                detail_parts.append(f'{_short_time(r["cook_time"])} cook')
             detail = " · ".join(detail_parts)
+
+            course = r["course"]
+            if course and course != "other":
+                badge = (
+                    f'<span class="course-badge course-{course}">'
+                    f'{course.title()}</span>'
+                )
+            else:
+                badge = ""
 
             entries += (
                 f'  <a class="toc-entry" href="recipes/{r["slug"]}/">'
                 f'<span class="toc-entry__title">{r["title"]}</span>'
                 f'<span class="toc-entry__dots"></span>'
+                f'{badge}'
                 f'<span class="toc-entry__detail">{detail}</span>'
                 f'</a>\n'
             )
@@ -103,7 +119,7 @@ hide:
 
 <div class="cookbook-hero">
   <h1>Wahly a Ojo</h1>
-  <p>A community cookbook. Recipes cooked <em>a ojo</em>&thinsp;&mdash;&thinsp;by sight, by feel, by taste.</p>
+  <p>A family cookbook. Recipes cooked <em>a ojo</em>.</p>
 </div>
 
 <div class="toc-book">

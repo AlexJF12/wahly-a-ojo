@@ -57,7 +57,7 @@
 
 .cookbook-hero {
   text-align: center;
-  padding: 4.5rem 1.5rem 2.5rem;
+  padding: 3rem 1.5rem 2.5rem;
   max-width: 640px;
   margin: 0 auto;
 }
@@ -65,18 +65,34 @@
 .cookbook-hero h1 {
   font-size: 2.75rem;
   font-weight: 800;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0;
   line-height: 1.1;
   letter-spacing: -0.03em;
   color: var(--text);
+}
+
+.cookbook-hero h1::after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 3px;
+  margin: 1.1rem auto 0;
+  border-radius: 2px;
+  background: var(--accent);
 }
 
 .cookbook-hero p {
   font-size: 1.15rem;
   color: var(--text-secondary);
   max-width: 440px;
-  margin: 0 auto;
+  margin: 1.25rem auto 0;
   line-height: 1.6;
+}
+
+.cookbook-hero p em {
+  color: var(--accent);
+  font-style: italic;
+  font-weight: 600;
 }
 
 /* ── Book-style table of contents ─────────────────────────── */
@@ -137,10 +153,18 @@
   margin-bottom: 0.25em;
 }
 
+.toc-entry .course-badge {
+  flex: 0 0 auto;
+}
+
 .toc-entry__detail {
   font-size: 0.82rem;
   color: var(--text-muted);
   white-space: nowrap;
+}
+
+.toc-entry__detail:empty {
+  display: none;
 }
 
 /* ── Course badge ──────────────────────────────────────────── */
@@ -182,6 +206,21 @@
   color: #7c3aed;
 }
 
+.course-badge.course-breakfast {
+  background: #fefce8;
+  color: #a16207;
+}
+
+.course-badge.course-bread {
+  background: #f7efe4;
+  color: #8a5a2b;
+}
+
+.course-badge.course-starter {
+  background: #ecfeff;
+  color: #0e7490;
+}
+
 [data-md-color-scheme="slate"] .course-badge.course-entree {
   background: #2e2010;
   color: #f0a050;
@@ -205,6 +244,21 @@
 [data-md-color-scheme="slate"] .course-badge.course-side {
   background: #201a30;
   color: #a080e0;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-breakfast {
+  background: #2a2410;
+  color: #e0c050;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-bread {
+  background: #2a2015;
+  color: #d0a070;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-starter {
+  background: #102628;
+  color: #40b0c0;
 }
 
 /* ── Recipe page metadata block ────────────────────────────── */
@@ -269,6 +323,21 @@
   margin: 1.75rem auto;
   border-radius: 12px;
   box-shadow: var(--shadow-md);
+}
+
+/* Recipe hero — the image directly after the meta block runs full width */
+.md-content .md-typeset .recipe-meta + p {
+  margin: 0;
+}
+
+.md-content .md-typeset .recipe-meta + p img {
+  max-width: 100%;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  margin: 0.5rem 0 2.25rem;
+  border-radius: 16px;
+  box-shadow: var(--shadow-lg);
 }
 
 .md-content .md-typeset ul li,
