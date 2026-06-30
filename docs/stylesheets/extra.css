@@ -128,9 +128,9 @@
 
 .toc-entry {
   display: flex;
-  align-items: center;
-  gap: 0.65rem;
-  padding: 0.5rem 0;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.45rem 0;
   text-decoration: none !important;
   color: inherit;
   transition: color 0.15s var(--ease);
@@ -138,31 +138,6 @@
 
 .toc-entry:hover {
   color: var(--accent);
-}
-
-.toc-entry__thumb {
-  flex: 0 0 auto;
-  width: 44px;
-  height: 44px;
-  border-radius: 8px;
-  object-fit: cover;
-  background: var(--bg-card);
-  box-shadow: var(--shadow-sm);
-  transition: transform 0.15s var(--ease);
-}
-
-.toc-entry:hover .toc-entry__thumb {
-  transform: scale(1.05);
-}
-
-.toc-entry__thumb--empty {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: var(--accent);
-  background: var(--accent-light);
 }
 
 .toc-entry__title {
@@ -174,8 +149,8 @@
 .toc-entry__dots {
   flex: 1;
   border-bottom: 1px dotted var(--border);
-  min-width: 1.5rem;
-  align-self: center;
+  min-width: 2rem;
+  margin-bottom: 0.25em;
 }
 
 .toc-entry .course-badge {
@@ -341,7 +316,7 @@
   letter-spacing: -0.02em;
 }
 
-.md-content .md-typeset img:not(.toc-entry__thumb) {
+.md-content .md-typeset img {
   max-width: 720px;
   width: 100%;
   display: block;

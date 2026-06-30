@@ -83,17 +83,6 @@ def on_pre_build(config, **kwargs):
                 detail_parts.append(f'{_short_time(r["cook_time"])} cook')
             detail = " · ".join(detail_parts)
 
-            if r["hero"]:
-                thumb = (
-                    f'<img class="toc-entry__thumb" src="{r["hero"]}" '
-                    f'alt="" loading="lazy">'
-                )
-            else:
-                thumb = (
-                    f'<span class="toc-entry__thumb toc-entry__thumb--empty">'
-                    f'{r["title"][:1]}</span>'
-                )
-
             course = r["course"]
             if course and course != "other":
                 badge = (
@@ -105,7 +94,6 @@ def on_pre_build(config, **kwargs):
 
             entries += (
                 f'  <a class="toc-entry" href="recipes/{r["slug"]}/">'
-                f'{thumb}'
                 f'<span class="toc-entry__title">{r["title"]}</span>'
                 f'<span class="toc-entry__dots"></span>'
                 f'{badge}'
