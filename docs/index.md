@@ -14,6 +14,7 @@ hide:
   <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 1</span>Alex</h2>
   <a class="toc-entry" href="recipes/black-beans/"><span class="toc-entry__title">Black Beans</span><span class="toc-entry__dots"></span><span class="course-badge course-side">Side</span><span class="toc-entry__detail">45 min cook</span></a>
   <a class="toc-entry" href="recipes/chili/"><span class="toc-entry__title">Chili</span><span class="toc-entry__dots"></span><span class="course-badge course-entree">Entree</span><span class="toc-entry__detail">2 hrs cook</span></a>
+  <a class="toc-entry" href="recipes/focaccia-alex/"><span class="toc-entry__title">Focaccia Bread (Alex's Version)</span><span class="toc-entry__dots"></span><span class="course-badge course-bread">Bread</span><span class="toc-entry__detail">25 min cook</span></a>
   <a class="toc-entry" href="recipes/larb/"><span class="toc-entry__title">Larb</span><span class="toc-entry__dots"></span><span class="course-badge course-entree">Entree</span><span class="toc-entry__detail">25 min cook</span></a>
 </div>
 
@@ -31,6 +32,7 @@ hide:
 
 <div class="toc-chapter">
   <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 4</span>Ceci</h2>
+  <a class="toc-entry" href="recipes/focaccia-ceci/"><span class="toc-entry__title">Focaccia Bread (Ceci's Version)</span><span class="toc-entry__dots"></span><span class="course-badge course-bread">Bread</span><span class="toc-entry__detail">25 min cook</span></a>
   <a class="toc-entry" href="recipes/gazpacho/"><span class="toc-entry__title">Gazpacho</span><span class="toc-entry__dots"></span><span class="course-badge course-starter">Starter</span><span class="toc-entry__detail">20 min prep</span></a>
   <a class="toc-entry" href="recipes/mojo-pork/"><span class="toc-entry__title">Mojo Pork</span><span class="toc-entry__dots"></span><span class="course-badge course-entree">Entree</span><span class="toc-entry__detail">3–4 hrs cook</span></a>
   <a class="toc-entry" href="recipes/paella/"><span class="toc-entry__title">Paella</span><span class="toc-entry__dots"></span><span class="course-badge course-entree">Entree</span><span class="toc-entry__detail">45 min cook</span></a>
@@ -47,6 +49,7 @@ hide:
 
 <div class="toc-chapter">
   <h2 class="toc-chapter__heading"><span class="toc-chapter__number">Chapter 6</span>Kunal</h2>
+  <a class="toc-entry" href="recipes/kale-caesar-salad/"><span class="toc-entry__title">Kale Caesar Salad</span><span class="toc-entry__dots"></span><span class="course-badge course-side">Side</span><span class="toc-entry__detail">15 min prep · 30 min cook</span></a>
   <a class="toc-entry" href="recipes/milk-bread/"><span class="toc-entry__title">Milk Bread</span><span class="toc-entry__dots"></span><span class="course-badge course-bread">Bread</span><span class="toc-entry__detail">35 min cook</span></a>
 </div>
 
