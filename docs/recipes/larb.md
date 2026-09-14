@@ -38,7 +38,7 @@ Ground turkey larb. The toasted rice powder is the whole thing — don't skip it
 
 5. Serve in lettuce cups with the rest of the herbs on top.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Carolyn:** He grinds his own rice for this?
 

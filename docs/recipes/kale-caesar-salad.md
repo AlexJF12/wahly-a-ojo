@@ -37,7 +37,7 @@ A Caesar that won't turn to soup. The kale holds up, the croutons are homemade, 
 
 4. Toss the kale with the sliced onion, all the dressing, and half the croutons until every leaf is coated. Scatter the rest of the croutons on top and serve.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Tim:** Six anchovies? In a salad?
 

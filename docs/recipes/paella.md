@@ -38,7 +38,7 @@ Paella valenciana — chicken, beans, saffron rice, and a toasted crust on the b
 
 5. Crank the heat the last minute or two to build the socarrat, the toasted crust on the bottom — listen for a faint crackle and smell for toasty, not burnt. Rest it under foil for 5 minutes, then serve with lemon.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** "Do not stir again, ever" is in all caps in Ceci's notes. Underlined twice.
 

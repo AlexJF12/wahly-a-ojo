@@ -37,7 +37,7 @@ Olive oil instead of butter. Pistachios and walnuts. This is the granola.
 
 5. Let it cool completely on the pan without touching it. Break it into pieces. Add dried fruit if you want it.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** Olive oil granola sounds like it shouldn't work and then you eat it and you can't go back to butter granola.
 

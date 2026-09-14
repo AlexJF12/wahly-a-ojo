@@ -32,7 +32,7 @@ Tortilla de patatas. Potatoes, eggs, onion, olive oil — that's the whole list,
 
 5. Now the flip: cover the pan with a plate, turn the whole thing out onto it, then slide it back in to set the other side for a few minutes. Keep the center just barely soft — you want jammy, not dry.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** Onion in a tortilla. Ceci has picked a side in a war that has genuinely ended friendships in Spain.
 

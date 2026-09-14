@@ -31,7 +31,7 @@ prep_time: "20 min"
 
 3. Refrigerate for at least two hours — it needs to be very cold. Serve with a drizzle of olive oil and whatever you want on top: chopped cucumber, pepper, croutons.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** The cucumber doesn't need to be in there. It waters it down. The tomato and pepper are doing all the work.
 

@@ -31,7 +31,7 @@ A basic country loaf. This is mostly waiting — the hands-on time is small, the
 
 5. Bake in a screaming-hot Dutch oven at 500°F: score the top with one confident half-inch slash, lid on for 20 minutes, then lid off and drop to 450°F for 20–25 more until it's deep brown and sounds hollow when you tap the bottom. Cool it completely — listen for the crust crackling as it sets.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** Carolyn has a sourdough starter with a name, doesn't she.
 

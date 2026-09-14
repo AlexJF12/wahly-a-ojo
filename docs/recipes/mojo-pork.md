@@ -48,7 +48,7 @@ Slow-cooked pork shoulder drenched in a garlicky citrus mojo. The crust at the e
 
 5. Spread the shredded pork on a sheet pan and broil for 3–5 minutes until the edges get dark and crispy. Watch it closely — you want charred tips, not ash. Squeeze fresh lime over the top before serving.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Nate:** Four pounds of pork and ten cloves of garlic. This is a recipe or a dare?
 

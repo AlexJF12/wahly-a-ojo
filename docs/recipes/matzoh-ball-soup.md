@@ -40,7 +40,7 @@ cook_time: "1 hr"
 
 5. After 20 minutes, check one. It should be fluffy all the way through, no dense center. Serve with fresh dill on top.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** Don't lift the lid. She said don't lift the lid.
 

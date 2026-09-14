@@ -36,7 +36,7 @@ Pillowy Japanese-style shokupan. The trick is the tangzhong — a quick cooked f
 
 5. Brush with the egg wash and bake at 350°F until deep golden and hollow-sounding when tapped, 30–35 minutes. Turn it out and cool before you tear in — the steam is still setting the crumb.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Tim:** A second cooked-flour step before the real dough? That's a lot of pots for sandwich bread.
 

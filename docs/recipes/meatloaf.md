@@ -41,7 +41,7 @@ cook_time: "1 hr"
 
 5. Bake for about 50–60 minutes until it reads 160°F in the center. Let it rest for 10 minutes before slicing.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** This is a meatloaf that knows what it is. No sun-dried tomatoes, no fancy glaze, no identity crisis.
 

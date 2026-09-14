@@ -35,7 +35,7 @@ Same dimpled, olive-oil-drenched focaccia, but you jammy-roast a pan of cherry t
 
 5. Bake at 450°F for 22–25 minutes until deep golden and the edges are crisp. It should sound hollow and the bottom should be lacquered from the oil. Cool in the pan a few minutes, then lift out.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Nate:** Cooking the tomatoes down first is the move. Raw cherry tomatoes on focaccia just steam and go watery and sad.
 

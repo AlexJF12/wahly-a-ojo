@@ -32,7 +32,7 @@ The everyday one. Thick, cold, a little tart. Built to keep you full past mid-mo
 
 4. Taste it. Too tart, add honey; too thick, more milk; too thin, a few more frozen berries. Pour into a cold glass and go.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** A smoothie recipe. We have officially run out of things to write down.
 

@@ -35,7 +35,7 @@ cook_time: "20 min"
 
 5. Serve with white rice and a fresh salad.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** The pre-cooked meat thing sounds like a footnote but it's actually the whole recipe. Use leftovers from a broth. Do not skip this.
 

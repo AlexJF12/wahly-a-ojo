@@ -2,12 +2,18 @@
 MkDocs hooks for Wahly a Ojo.
 
 on_pre_build  — regenerate docs/index.md from the current recipe collection.
-on_page_markdown — inject a metadata block and back-link into each recipe page.
+on_page_markdown — inject a metadata block and back-link into each recipe page,
+                   and mark up the Peanut Gallery dialogue.
 """
 
 import pathlib
 import re
 import yaml
+
+_OPINION_RE = re.compile(r"^\*\*(Nate|Alex|Ben|Tim|Carolyn):\*\*\s*(.+)$")
+
+# Populated by on_pre_build, read by on_page_markdown for the "More from" block.
+_BY_AUTHOR: dict[str, list[dict]] = {}
 
 
 def _parse_recipe(path: pathlib.Path) -> dict | None:
@@ -63,6 +69,9 @@ def on_pre_build(config, **kwargs):
     for r in recipes:
         author = r["author"] or "Unknown"
         by_author.setdefault(author, []).append(r)
+
+    _BY_AUTHOR.clear()
+    _BY_AUTHOR.update(by_author)
 
     chapters = ""
     for i, (author, author_recipes) in enumerate(sorted(by_author.items()), 1):
@@ -129,10 +138,87 @@ hide:
     (docs_dir / "index.md").write_text(index_md, encoding="utf-8")
 
 
+def _wrap_opinions(markdown: str) -> str:
+    """Turn `**Name:** line` dialogue into speaker-tagged HTML.
+
+    Emitted as one contiguous raw-HTML block (no blank lines inside) so the
+    Markdown parser passes it through untouched.
+    """
+    lines = markdown.splitlines(keepends=True)
+    out: list[str] = []
+    in_section = False
+    open_block = False
+
+    for line in lines:
+        stripped = line.strip()
+
+        if stripped.startswith("## "):
+            if open_block:
+                out.append("</div>\n\n")
+                open_block = False
+            in_section = stripped == "## Peanut Gallery"
+            out.append(line)
+            continue
+
+        match = _OPINION_RE.match(stripped) if in_section else None
+        if match:
+            if not open_block:
+                out.append('\n<div class="opinions">')
+                open_block = True
+            speaker, text = match.groups()
+            out.append(
+                f'<p class="opinion" data-speaker="{speaker}">'
+                f'<span class="opinion__name">{speaker}</span>{text}</p>'
+            )
+            continue
+
+        if open_block and not stripped:
+            continue
+
+        if open_block:
+            out.append("</div>\n\n")
+            open_block = False
+        out.append(line)
+
+    if open_block:
+        out.append("</div>\n")
+
+    return "".join(out)
+
+
+def _more_from(author: str, current_slug: str) -> str:
+    """Links to the author's other recipes. Empty if this is their only one."""
+    others = [r for r in _BY_AUTHOR.get(author, []) if r["slug"] != current_slug]
+    if not others:
+        return ""
+
+    entries = ""
+    for r in others:
+        course = r["course"]
+        badge = (
+            f'<span class="course-badge course-{course}">{course.title()}</span>'
+            if course and course != "other"
+            else ""
+        )
+        entries += (
+            f'<a class="more-from__entry" href="../{r["slug"]}/">'
+            f'<span class="more-from__title">{r["title"]}</span>'
+            f"{badge}</a>"
+        )
+
+    return (
+        f'\n<div class="more-from">'
+        f'<h2 class="more-from__heading">More from {author}</h2>'
+        f"{entries}</div>\n"
+    )
+
+
 def on_page_markdown(markdown, page, config, files, **kwargs):
     """Inject a metadata block and back-link at the top of every recipe page."""
     if not page.file.src_path.startswith("recipes/"):
         return markdown
+
+    markdown = _wrap_opinions(markdown)
 
     meta = page.meta or {}
 
@@ -165,4 +251,5 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
             lines.insert(i + 1, meta_block)
             break
 
-    return "".join(lines)
+    slug = pathlib.Path(page.file.src_path).stem
+    return "".join(lines) + _more_from(meta.get("author") or "", slug)

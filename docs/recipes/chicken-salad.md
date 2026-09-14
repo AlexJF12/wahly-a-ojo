@@ -43,7 +43,7 @@ Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chive
 
 5. Taste, adjust, done. Let it sit in the fridge for a bit if you can.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Carolyn:** Nate wrote a recipe that is essentially just vibes and I respect it deeply.
 

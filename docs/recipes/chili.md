@@ -41,7 +41,7 @@ Ground turkey and ground beef, roughly half and half. The turkey keeps it from b
 
 5. Bring it up, then drop it to a low simmer. Let it go for at least an hour, longer if you can. It thickens up and the flavors settle in. Taste and adjust salt.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Carolyn:** Cocoa powder AND coffee. He just wants people to ask him about his chili.
 

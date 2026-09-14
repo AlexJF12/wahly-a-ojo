@@ -3,3 +3,12 @@
 {% block site_nav %}
 {# Remove left navigation sidebar — the homepage card grid is the index #}
 {% endblock %}
+
+{% block extrahead %}
+  {# Display serif for titles and chapter headings — body stays Inter #}
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..800&display=swap"
+  >
+{% endblock %}
