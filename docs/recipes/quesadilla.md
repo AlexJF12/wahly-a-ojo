@@ -33,7 +33,7 @@ The fast lunch that lives or dies on two things: the cheese and the heat. Get th
 
 5. Slide it out and wait a full minute — molten cheese is a trap and you know it. Cut into wedges and serve with salsa and a squeeze of lime.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Carolyn:** Tim wrote half a page about cheese and two lines about everything else.
 

@@ -49,7 +49,7 @@ Soft, gooey, cream-cheese-iced. The whole house smells like cinnamon for hours, 
 
 5. Beat the cream cheese, powdered sugar, vanilla, and a splash of milk until smooth. Slather it over the rolls while they're still warm so it melts down into the swirls.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Nate:** The trick nobody actually does: pull them when the centers still look slightly underbaked. They keep cooking in the hot pan.
 

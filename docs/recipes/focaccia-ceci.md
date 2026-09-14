@@ -34,7 +34,7 @@ Same dimpled, olive-oil-drenched focaccia, except you spoon chili crisp oil into
 
 5. Cool in the pan a few minutes, then lift out and scatter the scallions over the top for a fresh, sharp bite against the heat.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** Chili crisp on focaccia is unhinged in the best way. But stir the jar first — everyone spoons off the top oil and leaves all the crunchy garlic and flakes at the bottom, which is the entire point.
 

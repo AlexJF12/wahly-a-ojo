@@ -34,7 +34,7 @@ Instant Pot black beans from dried. No soaking. The cinnamon is not optional.
 
 4. Fish out the cinnamon stick and bay leaf. Salt generously — dried beans need more salt than you think. Taste and adjust.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Carolyn:** Cinnamon in black beans.
 

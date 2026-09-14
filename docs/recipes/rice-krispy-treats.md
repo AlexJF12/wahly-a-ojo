@@ -28,7 +28,7 @@ cook_time: "15 min"
 
 4. Let them cool completely before cutting. Or don't. Nobody actually waits.
 
-## Unsolicited Opinions
+## Peanut Gallery
 
 **Alex:** This is three ingredients and one of them is marshmallows.
 
