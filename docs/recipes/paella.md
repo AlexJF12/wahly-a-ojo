@@ -46,12 +46,12 @@ Paella valenciana — chicken, beans, saffron rice, and a toasted crust on the b
 
 **Ben:** What's the socarrat? She drops it in like I'm supposed to already know.
 
-**Alex:** The crispy toasted layer of rice on the bottom of the pan. It's the best part. You build it on high heat right at the end.
+**Alex:** The crispy toasted layer of rice on the bottom of the pan. Best part. You build it on high heat right at the end.
 
-**Carolyn:** And use the widest pan you have. Paella wants a thin layer of rice — pile it deep and it steams instead of cooking properly.
+**Carolyn:** And use the widest pan you own. Paella wants a thin layer of rice. Pile it deep and it steams.
 
 **Ben:** So the socarrat is the burnt bit on purpose.
 
-**Carolyn:** Toasted. Say toasted in front of Ceci or she will take the pan back.
+**Carolyn:** Toasted. Say toasted in front of Ceci or she takes the pan back.
 
-**Alex:** Warm the broth before it goes in, too. Cold broth shocks the rice and the cooking goes uneven.
+**Alex:** Warm the broth before it goes in, too. Cold broth shocks the rice and it cooks uneven.

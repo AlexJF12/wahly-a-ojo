@@ -36,18 +36,14 @@ Same dimpled, olive-oil-drenched focaccia, except you spoon chili crisp oil into
 
 ## Peanut Gallery
 
-**Alex:** Chili crisp on focaccia is unhinged in the best way. But stir the jar first — everyone spoons off the top oil and leaves all the crunchy garlic and flakes at the bottom, which is the entire point.
+**Alex:** Chili crisp on focaccia sounds like a dare and then it works. Stir the jar first, though. Everybody spoons the oil off the top and leaves the crunchy garlic and the flakes sitting at the bottom.
 
-**Tim:** My worry is the flakes burning at 450. Toasting fast.
+**Tim:** Won't the flakes burn at 450?
 
-**Alex:** They can. Add most of the chili crisp into the dimples, but hold back a spoonful and drizzle it on the last five minutes so those bits stay crunchy instead of black.
+**Alex:** They can. Put most of it in the dimples and hold a spoonful back to drizzle on for the last five minutes, so those bits stay crunchy.
 
-**Carolyn:** The scallions at the end are doing real work here — you need something fresh cutting through all that oil, otherwise it's just rich on rich.
+**Carolyn:** The scallions at the end are doing real work. You need something fresh cutting through the oil or it's rich on top of rich.
 
-**Tim:** A squeeze of lime over the top wouldn't hurt either.
+**Tim:** A squeeze of lime wouldn't hurt either.
 
-**Alex:** Lime is good. And don't skip the flaky salt just because the chili crisp is salty — the flaky salt is texture, the chili crisp is flavor. Different jobs.
-
-**Carolyn:** So: stir the jar, hold some back for the end, scallions and maybe lime to finish, flaky salt anyway.
-
-**Tim:** That's a better bread than the one we started with.
+**Alex:** Lime's good. And still use the flaky salt even though the chili crisp is salty. They're doing different jobs.

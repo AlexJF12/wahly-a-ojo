@@ -39,22 +39,22 @@ Olive oil instead of butter. Pistachios and walnuts. This is the granola.
 
 ## Peanut Gallery
 
-**Alex:** Olive oil granola sounds like it shouldn't work and then you eat it and you can't go back to butter granola.
+**Alex:** Olive oil granola sounds like it shouldn't work and then you eat it and you can't go back to butter.
 
 **Carolyn:** Why olive oil?
 
-**Alex:** It's lighter. The granola tastes like the oats and the nuts instead of tasting like butter with oats in it.
+**Alex:** It's lighter. You taste the oats and the nuts, not butter with oats in it.
 
-**Carolyn:** The pistachio-walnut combination is doing a lot. Most granola picks one nut and calls it a day.
+**Carolyn:** The pistachio and walnut together is doing a lot. Most granola picks one nut and calls it a day.
 
 **Alex:** Emily doesn't do things halfway.
 
-**Carolyn:** Don't stir it too much. You want the clusters. The clusters are the point.
+**Carolyn:** Don't stir it much. You want the clusters to survive.
 
-**Alex:** If you break up all the clusters you've just made expensive cereal.
+**Alex:** Break up the clusters and you've made expensive cereal.
 
-**Carolyn:** "Expensive cereal" is what most store-bought granola already is.
+**Carolyn:** Most store-bought granola is already expensive cereal.
 
-**Alex:** This lasts about two days in our house. Which is a problem because it makes a week's worth.
+**Alex:** This lasts about two days in our house, which is a problem, because it makes a week's worth.
 
 **Carolyn:** That's not the granola's problem.

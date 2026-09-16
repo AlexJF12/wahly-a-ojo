@@ -37,20 +37,18 @@ Same dimpled, olive-oil-drenched focaccia, but you jammy-roast a pan of cherry t
 
 ## Peanut Gallery
 
-**Nate:** Cooking the tomatoes down first is the move. Raw cherry tomatoes on focaccia just steam and go watery and sad.
+**Nate:** Cooking the tomatoes down first matters. Raw cherry tomatoes on focaccia steam and go watery.
 
-**Carolyn:** Agreed. But six garlic cloves smashed into a skillet — are we roasting them whole? Because whole cloves that soft are incredible, don't let them dissolve into nothing.
+**Carolyn:** Agreed. Six garlic cloves smashed into a skillet, though. Are we roasting them whole? Cloves that soft are incredible, don't let them dissolve into nothing.
 
-**Nate:** Keep them whole. Pull the skillet the second the garlic turns golden, not brown. Brown garlic is bitter garlic.
+**Nate:** Keep them whole. Pull the skillet the second the garlic goes golden. Once it browns it's bitter.
 
-**Tim:** The one thing I'd change: reserve the tomato-garlic oil and brush it on the crust the last five minutes. That flavored oil is the best part and half of it gets left in the pan otherwise.
+**Tim:** One change. Save the tomato-garlic oil and brush it on the crust for the last five minutes. Otherwise half the best flavor stays in the pan.
 
-**Carolyn:** Tim, that's genuinely good.
+**Carolyn:** Tim, that's a good idea.
 
-**Tim:** I have one idea a year and that was it.
+**Tim:** I have one a year and that was it.
 
-**Nate:** Also don't skip the overnight rise if you can help it. The cold ferment is what gives you the big holes and that faint sourdough tang. Same dough, completely different bread.
+**Nate:** Do the overnight rise if you can. The cold ferment is where the big holes and the faint sourdough tang come from.
 
-**Carolyn:** So the plan is: overnight dough, jammy tomatoes, whole golden garlic, and we mop the leftover oil onto the crust.
-
-**Tim:** And flaky salt. If it's not a little too salty when you taste the first corner, you didn't use enough.
+**Tim:** And flaky salt. If the first corner isn't a little too salty, you didn't use enough.

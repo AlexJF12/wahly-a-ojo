@@ -33,12 +33,12 @@ prep_time: "20 min"
 
 ## Peanut Gallery
 
-**Alex:** The cucumber doesn't need to be in there. It waters it down. The tomato and pepper are doing all the work.
+**Alex:** The cucumber doesn't need to be in there. It waters it down. The tomato and the pepper are doing all the work.
 
-**Carolyn:** Without cucumber it's cold marinara. Ceci put it in for a reason — are you arguing with Ceci?
+**Carolyn:** Without cucumber it's cold marinara. Ceci put it in for a reason. Are you arguing with Ceci?
 
 **Alex:** I'm not arguing with Ceci. I'm arguing with the cucumber.
 
-**Carolyn:** The cucumber stays. Don't skip the bread either — it gives it body. And use real sherry vinegar, not red wine vinegar pretending to be fancy.
+**Carolyn:** The cucumber stays. Keep the bread in too, it gives it body. And use real sherry vinegar, not red wine vinegar pretending to be fancy.
 
-**Alex:** That part I agree with completely.
+**Alex:** That part I agree with.

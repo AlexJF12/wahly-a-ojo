@@ -43,18 +43,18 @@ cook_time: "1 hr"
 
 ## Peanut Gallery
 
-**Alex:** This is a meatloaf that knows what it is. No sun-dried tomatoes, no fancy glaze, no identity crisis.
+**Alex:** This is a meatloaf that knows what it is. No sun-dried tomatoes, no identity crisis.
 
 **Carolyn:** The ketchup glaze is correct. Anyone who puts barbecue sauce on meatloaf is trying too hard.
 
-**Alex:** The soaked breadcrumbs are the move. It keeps the whole thing tender. If you skip that step you get a brick.
+**Alex:** Soak the breadcrumbs. That's what keeps it tender. Skip it and you've got a brick.
 
-**Carolyn:** Ben, do you free-form or loaf pan?
+**Carolyn:** Ben, free-form or loaf pan?
 
-**Alex:** He does free-form. The edges get a little caramelized from the glaze. It's better.
+**Alex:** Free-form. The edges caramelize where the glaze runs down.
 
-**Carolyn:** Meatloaf sandwich the next day. Cold. With mustard.
+**Carolyn:** Meatloaf sandwich the next day. Cold, with mustard.
 
-**Alex:** This is the kind of recipe that doesn't impress anyone until they eat it and then they ask for it every week.
+**Alex:** Nobody's impressed by this recipe until they eat it, and then they want it every week.
 
-**Carolyn:** That's the highest compliment a meatloaf can receive.
+**Carolyn:** Highest compliment a meatloaf can get.

@@ -51,13 +51,13 @@ Soft, gooey, cream-cheese-iced. The whole house smells like cinnamon for hours, 
 
 ## Peanut Gallery
 
-**Nate:** The trick nobody actually does: pull them when the centers still look slightly underbaked. They keep cooking in the hot pan.
+**Nate:** Pull them while the centers still look a little underbaked. They keep cooking in the hot pan.
 
-**Ben:** Overbaked cinnamon rolls are just sweet bread. Tragic. Dry in the middle, sad all over.
+**Ben:** Overbaked cinnamon rolls are sweet bread, dry in the middle. Tragic.
 
-**Nate:** And frost them warm, not hot. Hot, and the icing slides straight off into a puddle at the bottom. Warm, and it sinks halfway into the swirls where it belongs.
+**Nate:** And frost them warm, not hot. Hot and the icing slides off into a puddle at the bottom. Warm and it sinks into the swirls where it belongs.
 
-**Ben:** Carolyn cuts hers with dental floss. Looked completely unhinged, works perfectly — no squashed rolls.
+**Ben:** Carolyn cuts hers with dental floss. Looks unhinged, works perfectly. No squashed rolls.
 
 **Nate:** Unflavored floss. She was very specific about this.
 

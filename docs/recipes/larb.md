@@ -42,20 +42,20 @@ Ground turkey larb. The toasted rice powder is the whole thing — don't skip it
 
 **Carolyn:** He grinds his own rice for this?
 
-**Ben:** It takes three minutes and it changes the whole dish. The store-bought stuff tastes like nothing — toast it until it's deep golden and smells nutty, then grind it coarse, not to flour. You want to feel a little grit.
+**Ben:** Takes three minutes and it changes the dish. The store-bought stuff tastes like nothing. Toast yours until it's deep golden and smells nutty, then grind it coarse, not to flour. You want to feel some grit.
 
 **Carolyn:** I believe you. I'm just noting the energy.
 
-**Ben:** The toasted rice powder is the texture. Without it, it's just seasoned ground meat in a lettuce leaf.
+**Ben:** It's where the texture comes from. Nothing else in that bowl crunches.
 
-**Carolyn:** That doesn't sound bad.
+**Carolyn:** Sounds fine without it.
 
-**Ben:** It's fine. Fine is not the goal.
+**Ben:** It is fine without it. Fine isn't the goal.
 
 **Carolyn:** The fish sauce amount seems aggressive.
 
-**Ben:** It seems aggressive and then you taste it and it's exactly right. Dress the turkey while it's still warm, too — it drinks up the lime and fish sauce instead of sliding off.
+**Ben:** It seems aggressive and then you taste it and it's right. Dress the turkey while it's still warm, too. It drinks the lime and fish sauce up instead of letting it slide off.
 
 **Carolyn:** I trust the fish sauce more than I trust either of you.
 
-**Ben:** That's fair. The fish sauce has never let anyone down.
+**Ben:** That's fair.

@@ -50,12 +50,12 @@ cook_time: "1 hr"
 
 **Carolyn:** Patience. See previous conversation about patience.
 
-**Alex:** Schmaltz or nothing. The oil version works but it doesn't taste like anything's grandmother made it.
+**Alex:** Schmaltz or nothing, by the way. The oil version works, it just doesn't taste like somebody's grandmother made it.
 
-**Carolyn:** The seltzer in the batter — does that actually do something?
+**Carolyn:** Does the seltzer in the batter do anything?
 
-**Alex:** It makes them lighter. It's a real thing. Some people use baking powder but Emily uses seltzer and Emily is right.
+**Alex:** Makes them lighter. Some people use baking powder, but Emily uses seltzer and Emily is right.
 
 **Carolyn:** These are the kind of matzoh balls that make you feel like everything is going to be okay.
 
-**Alex:** That's exactly what they're for.
+**Alex:** That's what they're for.
