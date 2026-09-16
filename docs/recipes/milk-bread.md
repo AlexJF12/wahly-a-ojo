@@ -40,18 +40,18 @@ Pillowy Japanese-style shokupan. The trick is the tangzhong — a quick cooked f
 
 **Tim:** A second cooked-flour step before the real dough? That's a lot of pots for sandwich bread.
 
-**Carolyn:** That's the tangzhong, and it's the entire point. It pre-gelatinizes the starch so the crumb holds onto water — that's why this stays soft on day three when a normal loaf is already toast-only.
+**Carolyn:** That's the tangzhong, and it's why you're doing any of this. It pre-gelatinizes the starch so the crumb holds water. This loaf is still soft on day three when a normal one has gone toast-only.
 
 **Tim:** Fine, but people are going to scorch it. It goes from paste to glue in seconds.
 
-**Carolyn:** Pull it the moment you can draw a line across the bottom of the pot. And let it cool to barely-warm before it meets the yeast, or you'll cook the dough before it rises.
+**Carolyn:** Pull it the moment you can draw a line across the bottom of the pot. Then let it cool to barely warm before it meets the yeast, or you'll cook the dough before it rises.
 
 **Nate:** Can I add the butter at the start with everything else?
 
-**Carolyn:** No — let the gluten build first, then knead the butter in. Add it early and the dough never tightens up; you'll be kneading a greasy puddle.
+**Carolyn:** No. Let the gluten build first, then knead the butter in. Add it early and the dough never tightens up and you're kneading a greasy puddle.
 
 **Nate:** And the windowpane thing, where you stretch it thin?
 
-**Carolyn:** Real cue, not a flex. If it stretches translucent without tearing, the structure's there and the loaf will tear into those soft strands. If it rips, keep going.
+**Carolyn:** That one's a real cue. Stretch a piece until it goes translucent. If it holds, the structure's there and the loaf will tear into soft strands. If it rips, keep kneading.
 
 **Tim:** I retract the pot complaint. I do not retract that this is a project.

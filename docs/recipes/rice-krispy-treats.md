@@ -32,11 +32,11 @@ cook_time: "15 min"
 
 **Alex:** This is three ingredients and one of them is marshmallows.
 
-**Carolyn:** And yet people mess it up constantly.
+**Carolyn:** And people mess it up constantly.
 
-**Alex:** How do you mess this up?
+**Alex:** How?
 
-**Carolyn:** They press them too hard. They use too much butter. They microwave the marshmallows and they get weird.
+**Carolyn:** They press them down too hard. They use too much butter. They microwave the marshmallows and they go weird.
 
 **Alex:** Emily's are perfect every time. I don't know what she does differently.
 
@@ -46,6 +46,6 @@ cook_time: "15 min"
 
 **Carolyn:** You improvise on everything.
 
-**Alex:** The pinch of salt makes a difference. Try it without and then try it with.
+**Alex:** The pinch of salt makes a difference. Make them once without it.
 
-**Carolyn:** The vanilla too. These are technically a recipe for children and they're still better than most desserts I've had this year.
+**Carolyn:** The vanilla too. These are technically a recipe for children and they're better than most desserts I've had this year.

@@ -45,15 +45,15 @@ Ground turkey and ground beef, roughly half and half. The turkey keeps it from b
 
 **Carolyn:** Cocoa powder AND coffee. He just wants people to ask him about his chili.
 
-**Tim:** Maybe, but it works. The cocoa adds depth, the coffee's bitterness balances the sweetness from the tomatoes. Don't skip either.
+**Tim:** Probably. It also works. The cocoa deepens it and the coffee cuts the sweetness off the tomatoes.
 
 **Carolyn:** Roasting your own poblanos when canned chipotles exist is a choice.
 
-**Tim:** A better one. The smoke is cleaner — you taste the pepper, not just adobo sauce. Char them until the skins are properly black and blistered all over, though, or they won't peel and you'll be picking burnt flakes out for ten minutes.
+**Tim:** A better one. You taste the pepper instead of the adobo. Char them until the skins are black and blistered all over, though. Anything less and they won't peel and you'll spend ten minutes picking burnt flakes off.
 
-**Carolyn:** Fine. The turkey-beef mix is actually smart. I'll give him that.
+**Carolyn:** Fine. The turkey-beef mix is smart. I'll give him that.
 
-**Tim:** Half and half is the move. The turkey keeps it from sitting like a brick, the beef keeps it from tasting like health food.
+**Tim:** Half and half. The turkey keeps it from sitting like a brick, the beef keeps it from tasting like health food.
 
 **Carolyn:** Look at you, defending a man who puts coffee in chili.
 

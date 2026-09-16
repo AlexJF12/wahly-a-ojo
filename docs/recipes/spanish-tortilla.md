@@ -34,14 +34,14 @@ Tortilla de patatas. Potatoes, eggs, onion, olive oil — that's the whole list,
 
 ## Peanut Gallery
 
-**Alex:** Onion in a tortilla. Ceci has picked a side in a war that has genuinely ended friendships in Spain.
+**Alex:** Onion in a tortilla. Ceci has picked a side in a war that has ended friendships in Spain.
 
 **Carolyn:** Team onion is correct. It goes sweet and soft and makes the whole thing taste like more than eggs and potatoes.
 
-**Alex:** I'm not arguing. I'm just noting that she put it in print. That's a bold woman.
+**Alex:** I'm not arguing. I'm noting that she put it in print. Bold woman.
 
-**Carolyn:** The real tip is the resting step — letting the potatoes soak in the beaten egg before it hits the pan. That's why hers holds together and yours slides apart in the flip.
+**Carolyn:** The real tip is the resting step, letting the potatoes sit in the beaten egg before it hits the pan. That's why hers holds together and yours slides apart on the flip.
 
-**Alex:** And pull it while the center's still a little soft. It keeps cooking from its own heat after the flip. A dry tortilla is a sad tortilla.
+**Alex:** And pull it while the center's still a little soft. It keeps cooking from its own heat after the flip.
 
 **Carolyn:** Jammy middle or it didn't happen. Don't let it set into a frittata.

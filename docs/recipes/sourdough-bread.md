@@ -35,14 +35,14 @@ A basic country loaf. This is mostly waiting — the hands-on time is small, the
 
 **Alex:** Carolyn has a sourdough starter with a name, doesn't she.
 
-**Tim:** Her name is Brenda and Carolyn talks about Brenda more than she talks about most people.
+**Tim:** Her name is Brenda, and Carolyn talks about Brenda more than she talks about most people.
 
-**Alex:** The bread is genuinely incredible, though. Annoyingly.
+**Alex:** The bread is incredible though. Annoyingly.
 
-**Tim:** Two real tips. One: actually wait for the starter to be at peak — bubbly and domed, not flat and sad — or the loaf won't rise. Float a spoonful in water; if it sinks, it's not ready.
+**Tim:** Wait for the starter to actually peak. Bubbly and domed, not flat. Float a spoonful in water and if it sinks, it isn't ready.
 
 **Alex:** And score it deep. One half-inch slash, committed. Timid little scratches and it bursts open at the side like it's embarrassed.
 
-**Tim:** Last one: do not cut it hot. The inside is still setting and you'll get gummy bread.
+**Tim:** Don't cut it hot, either. The inside is still setting and you'll get gummy bread.
 
-**Alex:** "Listen to your bread cool" is the single most Carolyn sentence ever recorded, and yet here we are, listening.
+**Alex:** "Listen to your bread cool" is the most Carolyn sentence ever recorded, and here we are, listening to bread.

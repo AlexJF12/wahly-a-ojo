@@ -45,7 +45,7 @@ Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chive
 
 ## Peanut Gallery
 
-**Carolyn:** Nate wrote a recipe that is essentially just vibes and I respect it deeply.
+**Carolyn:** Nate wrote a recipe that is essentially vibes and I respect it deeply.
 
 **Alex:** "Mayo — enough to make it creamy, probably more than you think." That is doing a lot of work as an instruction.
 
@@ -59,15 +59,14 @@ Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chive
 
 **Carolyn:** "Herb Situation" and "The Fancy One."
 
-**Alex:** Do not skip the acid at the end. I skipped it once. The salad knew.
+**Alex:** Don't leave out the acid at the end. I left it out once and the salad knew.
 
 **Carolyn:** What does that mean?
 
-**Alex:** It tasted sad. Just use the pickle juice.
+**Alex:** It tasted sad. Use the pickle juice.
 
-**Carolyn:** Make the dill version first. Put it on sourdough.
+**Carolyn:** Make the dill one first. Put it on sourdough.
 
 **Alex:** We don't have sourdough anymore.
 
 **Carolyn:** ...
-

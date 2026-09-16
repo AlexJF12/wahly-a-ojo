@@ -36,14 +36,14 @@ The everyday one. Thick, cold, a little tart. Built to keep you full past mid-mo
 
 **Alex:** A smoothie recipe. We have officially run out of things to write down.
 
-**Nate:** Mock it, but the frozen-banana thing is real. Ice just makes it cold and watery. A frozen banana makes it a milkshake that's technically breakfast.
+**Nate:** Mock it, but the frozen banana part is real. Ice makes it cold and watery. A frozen banana makes it a milkshake that's technically breakfast.
 
-**Alex:** Okay, that's a genuinely good tip.
+**Alex:** Okay, that one's good.
 
-**Nate:** Add the nut butter or oats too, or you'll be starving by ten. Sugar water doesn't hold you — you need some fat or fiber in there.
+**Nate:** Put the nut butter or the oats in too, or you're starving by ten. Sugar water doesn't hold you.
 
-**Alex:** Carolyn puts a tiny pinch of salt in hers.
+**Alex:** Carolyn puts a pinch of salt in hers.
 
-**Nate:** Does that actually do anything?
+**Nate:** Does that do anything?
 
-**Alex:** Infuriatingly, yes. Makes the fruit taste more like fruit. I don't understand it and I've stopped trying to.
+**Alex:** Infuriatingly, yes. Makes the fruit taste more like fruit. I've stopped trying to understand it.

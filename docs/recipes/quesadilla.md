@@ -37,7 +37,7 @@ The fast lunch that lives or dies on two things: the cheese and the heat. Get th
 
 **Carolyn:** Tim wrote half a page about cheese and two lines about everything else.
 
-**Alex:** Because the cheese is the entire ballgame. Pre-shredded cheese has sawdust in it. It will not melt right.
+**Alex:** Because the cheese is the whole ballgame. Pre-shredded cheese has sawdust in it. It will not melt right.
 
 **Carolyn:** It's cellulose, not sawdust.
 
@@ -45,8 +45,8 @@ The fast lunch that lives or dies on two things: the cheese and the heat. Get th
 
 **Carolyn:** The medium-heat note is the other real one. People crank the burner, char the tortilla, and the cheese inside is still a cold solid.
 
-**Alex:** Patience. A quesadilla is a slow handshake, not a fistfight.
+**Alex:** Which means standing there while it goes. The cheese melts slower than the tortilla browns.
 
-**Carolyn:** Put that on the wall.
+**Carolyn:** Riveting.
 
-**Alex:** One more: a thin layer of cheese against each tortilla with the filling in between. It welds the whole thing together so it doesn't explode when you flip it.
+**Alex:** One more. Thin layer of cheese against each tortilla with the filling in between. It welds the whole thing together so it doesn't explode when you flip it.

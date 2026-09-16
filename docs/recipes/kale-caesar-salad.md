@@ -41,20 +41,20 @@ A Caesar that won't turn to soup. The kale holds up, the croutons are homemade, 
 
 **Tim:** Six anchovies? In a salad?
 
-**Ben:** You won't taste them as fish — they melt into the dressing and just make it taste like Caesar. Leave them out and it's mayo on a leaf.
+**Ben:** You won't taste them as fish. They melt into the dressing and make it taste like Caesar. Leave them out and it's mayo on a leaf.
 
-**Carolyn:** The raw white onion is what worries me. Thinly sliced, sure, but that's still a lot of onion.
+**Carolyn:** It's the raw white onion that worries me. Thinly sliced, sure, but that's a lot of onion.
 
-**Ben:** Soak the slices in cold water for ten minutes and pat them dry. Takes the raw bite off and keeps the crunch.
+**Ben:** Soak the slices in cold water for ten minutes and pat them dry. Takes the bite off, keeps the crunch.
 
 **Carolyn:** See, *that* I'll do.
 
-**Tim:** And the massaging — actually necessary or just a vibe?
+**Tim:** And the massaging. Necessary or just a vibe?
 
-**Ben:** Necessary. Throw a pinch of salt in while you work the oil in, and don't rush it. When the leaves go dark and glossy and shrink to half the volume, they're done. Undermassaged kale is basically eating a hedge.
+**Ben:** Necessary. Throw a pinch of salt in while you work the oil through, and don't rush it. When the leaves go dark and glossy and shrink to half the volume, they're done. Undermassaged kale is basically eating a hedge.
 
 **Carolyn:** A hedge with croutons.
 
-**Tim:** Last one — this whole thing holds up, right? Kale doesn't wilt like romaine.
+**Tim:** This holds up, though, right? Kale doesn't wilt like romaine.
 
-**Ben:** Best part. Dress it and let it sit fifteen minutes before serving and it only gets better. Try that with a real Caesar and you've got soup.
+**Ben:** Dress it and let it sit fifteen minutes and it gets better. Try that with a real Caesar and you've got soup.
