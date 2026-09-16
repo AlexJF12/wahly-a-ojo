@@ -1,0 +1,512 @@
+/* ============================================================
+   Wahly a Ojo — site styles
+   ============================================================ */
+
+/* ── Design tokens ────────────────────────────────────────── */
+
+:root {
+  --accent: #d4500e;
+  --accent-light: #fef4f0;
+  --accent-hover: #b8430b;
+  --bg: #faf8f6;
+  --bg-card: #ffffff;
+  --text: #1c1917;
+  --text-secondary: #78716c;
+  --text-muted: #a8a29e;
+  --border: #eee9e4;
+  --shadow-sm: 0 1px 3px rgba(28, 25, 23, 0.05);
+  --shadow-md: 0 4px 16px rgba(28, 25, 23, 0.07), 0 1px 4px rgba(28, 25, 23, 0.03);
+  --shadow-lg: 0 12px 32px rgba(28, 25, 23, 0.1), 0 4px 12px rgba(28, 25, 23, 0.04);
+  --card-radius: 16px;
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+}
+
+[data-md-color-scheme="slate"] {
+  --accent: #ef7a4a;
+  --accent-light: #2c2018;
+  --accent-hover: #f49268;
+  --bg: #1a1816;
+  --bg-card: #242220;
+  --text: #edebe9;
+  --text-secondary: #a39e98;
+  --text-muted: #706b65;
+  --border: #33302d;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.25), 0 1px 4px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.35), 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* ── Theme background overrides ───────────────────────────── */
+
+[data-md-color-scheme="default"] .md-main {
+  background: var(--bg);
+}
+
+[data-md-color-scheme="slate"] .md-main {
+  background: var(--bg);
+}
+
+/* ── Header ───────────────────────────────────────────────── */
+
+.md-header {
+  box-shadow: none;
+  border-bottom: 1px solid var(--border);
+}
+
+/* ── Homepage hero ─────────────────────────────────────────── */
+
+.cookbook-hero {
+  text-align: center;
+  padding: 3rem 1.5rem 2.5rem;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.cookbook-hero h1 {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-size: 2.75rem;
+  font-weight: 800;
+  margin-bottom: 0;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  color: var(--text);
+}
+
+.cookbook-hero h1::after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 3px;
+  margin: 1.1rem auto 0;
+  border-radius: 2px;
+  background: var(--accent);
+}
+
+.cookbook-hero p {
+  font-size: 1.15rem;
+  color: var(--text-secondary);
+  max-width: 30rem;
+  margin: 1.25rem auto 0;
+  line-height: 1.6;
+  text-wrap: balance;
+}
+
+.cookbook-hero p em {
+  color: var(--accent);
+  font-style: italic;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* ── Book-style table of contents ─────────────────────────── */
+
+.toc-book {
+  max-width: 540px;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+}
+
+.toc-chapter {
+  margin-bottom: 2rem;
+}
+
+.toc-chapter__heading {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+
+.toc-chapter__number {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 0.15rem;
+}
+
+.toc-entry {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.45rem 0;
+  text-decoration: none !important;
+  color: inherit;
+  transition: color 0.15s var(--ease);
+}
+
+/* Beat Material's `.md-typeset a`, which otherwise paints these link-blue. */
+.md-typeset .toc-entry,
+.md-typeset .toc-entry:visited {
+  color: var(--text);
+}
+
+.md-typeset .toc-entry:hover {
+  color: var(--accent);
+}
+
+.toc-entry__title {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-size: 1.05rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.toc-entry__dots {
+  flex: 1;
+  border-bottom: 1px dotted var(--border);
+  min-width: 2rem;
+  margin-bottom: 0.25em;
+}
+
+.toc-entry .course-badge {
+  flex: 0 0 auto;
+}
+
+.toc-entry__detail {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.toc-entry__detail:empty {
+  display: none;
+}
+
+/* ── Course badge ──────────────────────────────────────────── */
+
+.course-badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+.course-badge.course-entree {
+  background: #fef2e6;
+  color: #c2640a;
+}
+
+.course-badge.course-other {
+  background: #eef2f7;
+  color: #4a6fa5;
+}
+
+.course-badge.course-appetizer {
+  background: #ecfdf5;
+  color: #0d9451;
+}
+
+.course-badge.course-dessert {
+  background: #fdf2f8;
+  color: #be185d;
+}
+
+.course-badge.course-side {
+  background: #f5f3ff;
+  color: #7c3aed;
+}
+
+.course-badge.course-breakfast {
+  background: #fefce8;
+  color: #a16207;
+}
+
+.course-badge.course-bread {
+  background: #f7efe4;
+  color: #8a5a2b;
+}
+
+.course-badge.course-starter {
+  background: #ecfeff;
+  color: #0e7490;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-entree {
+  background: #2e2010;
+  color: #f0a050;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-other {
+  background: #1a2030;
+  color: #7ea0d0;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-appetizer {
+  background: #102520;
+  color: #40c080;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-dessert {
+  background: #2a1520;
+  color: #e070a0;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-side {
+  background: #201a30;
+  color: #a080e0;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-breakfast {
+  background: #2a2410;
+  color: #e0c050;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-bread {
+  background: #2a2015;
+  color: #d0a070;
+}
+
+[data-md-color-scheme="slate"] .course-badge.course-starter {
+  background: #102628;
+  color: #40b0c0;
+}
+
+/* ── Recipe page metadata block ────────────────────────────── */
+
+.recipe-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0 2.5rem;
+  padding: 1.1rem 1.25rem;
+  background: var(--bg);
+  border-radius: 12px;
+  border: 1px solid var(--border);
+}
+
+.back-link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent) !important;
+  text-decoration: none !important;
+  transition: color 0.2s var(--ease);
+}
+
+.back-link:hover {
+  color: var(--accent-hover) !important;
+  text-decoration: underline !important;
+}
+
+.meta-items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+}
+
+.meta-author {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--text);
+}
+
+.meta-item {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+}
+
+/* ── Recipe page content ───────────────────────────────────── */
+
+/* The left nav is removed, so the article column has to center itself —
+   otherwise it hugs the left edge of the much wider content grid. */
+.md-content .md-typeset {
+  max-width: 72ch;
+  margin-inline: auto;
+  padding-inline: 0.8rem;
+  box-sizing: border-box;
+}
+
+.md-content .md-typeset h1 {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.md-content .md-typeset img {
+  max-width: 720px;
+  width: 100%;
+  display: block;
+  margin: 1.75rem auto;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+}
+
+/* Recipe hero — the image directly after the meta block runs full width */
+.md-content .md-typeset .recipe-meta + p {
+  margin: 0;
+}
+
+.md-content .md-typeset .recipe-meta + p img {
+  max-width: 100%;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  margin: 0.5rem 0 2.25rem;
+  border-radius: 16px;
+  box-shadow: var(--shadow-lg);
+}
+
+.md-content .md-typeset ul li,
+.md-content .md-typeset ol li {
+  line-height: 1.75;
+}
+
+.md-content .md-typeset ol li {
+  margin-bottom: 0.4rem;
+}
+
+/* ── Section rhythm ────────────────────────────────────────── */
+
+/* Recipe section headings only — `:not([class])` keeps this off the homepage
+   chapter headings and the "More from" heading, which style themselves. */
+.md-content .md-typeset h2:not([class]) {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  margin-top: 3rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--border);
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: -0.01em;
+}
+
+/* ── Peanut Gallery ──────────────────────────────────── */
+
+.opinions {
+  margin: 1.25rem 0 1rem;
+  padding: 0.35rem 1.35rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--card-radius);
+  box-shadow: var(--shadow-sm);
+}
+
+.md-typeset .opinion {
+  margin: 0;
+  padding: 0.9rem 0;
+  line-height: 1.7;
+}
+
+.opinion + .opinion {
+  border-top: 1px solid var(--border);
+}
+
+.opinion__name {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.15rem;
+  color: var(--text-secondary);
+}
+
+.opinion[data-speaker="Nate"] .opinion__name { color: #4a6fa5; }
+.opinion[data-speaker="Alex"] .opinion__name { color: #c2640a; }
+.opinion[data-speaker="Ben"] .opinion__name { color: #0d9451; }
+.opinion[data-speaker="Tim"] .opinion__name { color: #7c3aed; }
+.opinion[data-speaker="Carolyn"] .opinion__name { color: #be185d; }
+
+[data-md-color-scheme="slate"] .opinion[data-speaker="Nate"] .opinion__name { color: #7ea0d0; }
+[data-md-color-scheme="slate"] .opinion[data-speaker="Alex"] .opinion__name { color: #f0a050; }
+[data-md-color-scheme="slate"] .opinion[data-speaker="Ben"] .opinion__name { color: #40c080; }
+[data-md-color-scheme="slate"] .opinion[data-speaker="Tim"] .opinion__name { color: #a080e0; }
+[data-md-color-scheme="slate"] .opinion[data-speaker="Carolyn"] .opinion__name { color: #e070a0; }
+
+/* ── More from <author> ────────────────────────────────────── */
+
+.more-from {
+  margin-top: 3.5rem;
+  padding-top: 0.5rem;
+}
+
+.md-typeset .more-from__heading {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  margin: 0 0 0.3rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.more-from__entry {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--border);
+  text-decoration: none !important;
+  color: inherit;
+  transition: color 0.15s var(--ease);
+}
+
+.md-typeset .more-from__entry,
+.md-typeset .more-from__entry:visited {
+  color: var(--text);
+}
+
+.md-typeset .more-from__entry:hover {
+  color: var(--accent);
+}
+
+.more-from__title {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+
+.more-from__entry .course-badge {
+  flex: 0 0 auto;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+
+.md-footer {
+  border-top: 1px solid var(--border);
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
+
+/* The dotted-leader row can't compress far enough for long titles on a phone,
+   so the title takes its own line and the leader drops out. */
+@media (max-width: 600px) {
+  .toc-entry {
+    flex-wrap: wrap;
+    gap: 0.3rem 0.5rem;
+  }
+
+  .toc-entry__title {
+    flex: 1 1 100%;
+    white-space: normal;
+  }
+
+  .toc-entry__dots {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .cookbook-hero { padding: 3rem 1rem 1.5rem; }
+  .cookbook-hero h1 { font-size: 2.1rem; }
+  .cookbook-hero p { font-size: 1rem; }
+}
