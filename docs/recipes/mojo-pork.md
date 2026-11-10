@@ -4,6 +4,7 @@ author: "Ceci"
 course: "entree"
 servings: "8 servings"
 cook_time: "3–4 hrs (oven) / 1 hr (Instant Pot)"
+gallery: "filler"
 ---
 
 # Mojo Pork
@@ -50,22 +51,22 @@ Slow-cooked pork shoulder drenched in a garlicky citrus mojo. The crust at the e
 
 ## Peanut Gallery
 
-**Nate:** Four pounds of pork and ten cloves of garlic. Is this a recipe or a dare?
+**Nate:** Ten cloves of garlic. Is this a recipe or a dare?
 
-**Ben:** It's correct. The garlic could go higher, honestly. Mash it into a paste with the salt first. A mortar and pestle turns it into something the marinade can carry into the meat. A press works fine. Just don't put it in whole.
+**Ben:** It's a starting point. I do twelve. Mash it with the salt until it's a paste so it actually gets down into the cuts.
 
-**Nate:** Is the overnight marinade worth it or is that recipe guilt?
+**Nate:** Is the overnight marinade worth it, or is that just recipe guilt?
 
-**Ben:** Worth it. An hour gets you a good dinner. Overnight gets you the one you brag about. The sour orange needs time to work into the score marks.
+**Ben:** An hour gets you dinner. Overnight gets you the one people ask about.
 
-**Nate:** I can't find sour oranges anywhere.
+**Tim:** I can't find sour oranges anywhere.
 
-**Ben:** Three parts OJ to one part lime. Not identical, but nobody at the table will know. Use fresh citrus though. Bottled juice tastes flat.
+**Ben:** Three parts orange juice, one part lime, squeezed fresh. Nobody at the table will know.
 
-**Nate:** The broil at the end feels like showing off.
+**Tim:** And the broiler at the end. Do I have to?
 
-**Ben:** You just spent hours making tender pulled pork. Two minutes under the broiler is what gives you crispy edges against the soft meat. Don't skip it.
+**Ben:** You spent hours making it tender. Spend three minutes making it crispy. Just don't walk away from it.
 
-**Nate:** I'm doing the Instant Pot version.
+**Nate:** I walked away from it. "Charred tips, not ash," she says. I made ash. Still ate it.
 
-**Ben:** Both work. The oven gives you a deeper fond and a richer sauce. The Instant Pot gets you there on a Tuesday. Sear it either way.
+**Tim:** Leftovers go in a quesadilla. I know a guy with a recipe.

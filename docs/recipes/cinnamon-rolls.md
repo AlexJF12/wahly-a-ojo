@@ -4,6 +4,7 @@ author: "Carolyn"
 course: "breakfast"
 servings: "12 rolls"
 cook_time: "25 min"
+gallery: "filler"
 ---
 
 # Cinnamon Rolls
@@ -51,14 +52,16 @@ Soft, gooey, cream-cheese-iced. The whole house smells like cinnamon for hours, 
 
 ## Peanut Gallery
 
-**Nate:** Pull them while the centers still look a little underbaked. They keep cooking in the hot pan.
+**Ben:** She cuts them with dental floss. I watched her do it. It looks unhinged and every roll comes out perfectly round.
 
-**Ben:** Overbaked cinnamon rolls are sweet bread, dry in the middle. Tragic.
+**Nate:** Unflavored. She was very specific about that.
 
-**Nate:** And frost them warm, not hot. Hot and the icing slides off into a puddle at the bottom. Warm and it sinks into the swirls where it belongs.
+**Ben:** Which means somebody learned it the hard way.
 
-**Ben:** Carolyn cuts hers with dental floss. Looks unhinged, works perfectly. No squashed rolls.
+**Nate:** Minty cinnamon rolls. One time. We don't talk about it.
 
-**Nate:** Unflavored floss. She was very specific about this.
+**Tim:** I ate four of those.
 
-**Ben:** Minty cinnamon rolls. One time. We don't talk about it.
+**Nate:** Real tip: pull them when the centers still look a little raw. They finish in the hot pan. If you wait until they look done, you've made sweet bread.
+
+**Tim:** And ice them warm, not hot. Hot and it all slides off into a puddle at the bottom of the pan. Which I would also eat, to be clear.

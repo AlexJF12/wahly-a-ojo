@@ -4,11 +4,12 @@ author: "Alex"
 course: "bread"
 servings: "9 pieces"
 cook_time: "25 min"
+gallery: "filler"
 ---
 
 # Focaccia Bread (Alex's Version)
 
-![Focaccia with roasted cherry tomatoes and garlic](../images/focaccia-alex/focaccia-alex.jpg)
+![Focaccia](../images/focaccia-alex/focaccia-alex.jpg)
 
 Same dimpled, olive-oil-drenched focaccia, but you jammy-roast a pan of cherry tomatoes and garlic first and press them into the top before it bakes. They collapse into little sweet-savory bombs. This is my version — there will be others.
 
@@ -37,18 +38,18 @@ Same dimpled, olive-oil-drenched focaccia, but you jammy-roast a pan of cherry t
 
 ## Peanut Gallery
 
-**Nate:** Cooking the tomatoes down first matters. Raw cherry tomatoes on focaccia steam and go watery.
+**Carolyn:** "This is my version — there will be others." He wrote a threat into a bread recipe.
 
-**Carolyn:** Agreed. Six garlic cloves smashed into a skillet, though. Are we roasting them whole? Cloves that soft are incredible, don't let them dissolve into nothing.
+**Nate:** There are two focaccias in this book and I'm not saying which one is better, because I'd like to keep getting fed.
 
-**Nate:** Keep them whole. Pull the skillet the second the garlic goes golden. Once it browns it's bitter.
+**Tim:** Coward.
 
-**Tim:** One change. Save the tomato-garlic oil and brush it on the crust for the last five minutes. Otherwise half the best flavor stays in the pan.
+**Nate:** Cooking the tomatoes down first is the move, though. Raw ones just steam and make the top soggy.
 
-**Carolyn:** Tim, that's a good idea.
+**Tim:** Save the oil from the tomato pan and brush it on the crust for the last five minutes. Half the flavor is still sitting in that skillet.
 
-**Tim:** I have one a year and that was it.
+**Carolyn:** Tim. That's actually good.
 
-**Nate:** Do the overnight rise if you can. The cold ferment is where the big holes and the faint sourdough tang come from.
+**Tim:** I get one idea a year. That was it.
 
-**Tim:** And flaky salt. If the first corner isn't a little too salty, you didn't use enough.
+**Nate:** Do the overnight rise. And use more flaky salt than you think. If the first corner isn't a little too salty, you were shy.

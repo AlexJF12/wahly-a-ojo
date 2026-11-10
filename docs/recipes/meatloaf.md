@@ -4,11 +4,14 @@ author: "Ben"
 course: "entree"
 servings: "6 servings"
 cook_time: "1 hr"
+gallery: "filler"
 ---
 
 # Meatloaf
 
 ![Meatloaf](../images/meatloaf/meatloaf.jpg)
+
+Plain, classic, ketchup-glazed. Nothing in here is trying to surprise you.
 
 ## Ingredients
 
@@ -43,18 +46,16 @@ cook_time: "1 hr"
 
 ## Peanut Gallery
 
-**Alex:** This is a meatloaf that knows what it is. No sun-dried tomatoes, no identity crisis.
+**Alex:** A meatloaf that knows what it is. No sun-dried tomatoes. No identity crisis.
 
-**Carolyn:** The ketchup glaze is correct. Anyone who puts barbecue sauce on meatloaf is trying too hard.
+**Carolyn:** The ketchup glaze is correct. Barbecue sauce on a meatloaf is trying too hard.
 
-**Alex:** Soak the breadcrumbs. That's what keeps it tender. Skip it and you've got a brick.
+**Tim:** Ben has exactly one recipe in this book and it's meatloaf. I think that's beautiful.
 
-**Carolyn:** Ben, free-form or loaf pan?
+**Alex:** Soak the breadcrumbs or you're baking a brick. And go free-form on the sheet pan, not the loaf pan. The glaze runs down the sides and the edges go dark and sticky.
 
-**Alex:** Free-form. The edges caramelize where the glaze runs down.
+**Tim:** End piece is mine.
 
-**Carolyn:** Meatloaf sandwich the next day. Cold, with mustard.
+**Carolyn:** The real recipe is the sandwich the next day. Cold slice, soft bread, mustard. Don't heat it up. Don't improve it.
 
-**Alex:** Nobody's impressed by this recipe until they eat it, and then they want it every week.
-
-**Carolyn:** Highest compliment a meatloaf can get.
+**Alex:** Nobody is excited when you say "meatloaf," and then everybody has seconds.

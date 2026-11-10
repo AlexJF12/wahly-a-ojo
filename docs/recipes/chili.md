@@ -4,6 +4,7 @@ author: "Alex"
 course: "entree"
 servings: "8 servings"
 cook_time: "2 hrs"
+gallery: "filler"
 ---
 
 # Chili
@@ -43,18 +44,16 @@ Ground turkey and ground beef, roughly half and half. The turkey keeps it from b
 
 ## Peanut Gallery
 
-**Carolyn:** Cocoa powder AND coffee. He just wants people to ask him about his chili.
+**Carolyn:** Cocoa powder AND coffee. He doesn't want you to eat this chili, he wants you to ask about it.
 
-**Tim:** Probably. It also works. The cocoa deepens it and the coffee cuts the sweetness off the tomatoes.
+**Tim:** And then he tells you. For a while.
 
-**Carolyn:** Roasting your own poblanos when canned chipotles exist is a choice.
+**Ben:** Annoyingly, it's the right call. You don't taste chocolate or coffee. It just tastes darker, like it's been on the stove since yesterday.
 
-**Tim:** A better one. You taste the pepper instead of the adobo. Char them until the skins are black and blistered all over, though. Anything less and they won't peel and you'll spend ten minutes picking burnt flakes off.
+**Carolyn:** Roasting your own poblanos on a weeknight is a personality.
 
-**Carolyn:** Fine. The turkey-beef mix is smart. I'll give him that.
+**Tim:** Char them all the way black or they won't peel. I got impatient once and spent ten minutes picking skin off with my fingernails like a raccoon.
 
-**Tim:** Half and half. The turkey keeps it from sitting like a brick, the beef keeps it from tasting like health food.
+**Ben:** Make it a day ahead if you can. Day-two chili beats day-one chili every time.
 
-**Carolyn:** Look at you, defending a man who puts coffee in chili.
-
-**Tim:** I'm defending the chili. He's on his own.
+**Carolyn:** Also it needs cornbread, and he knows it needs cornbread.

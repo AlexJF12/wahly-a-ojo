@@ -4,6 +4,7 @@ author: "Kunal"
 course: "bread"
 servings: "1 loaf"
 cook_time: "35 min"
+gallery: "filler"
 ---
 
 # Milk Bread
@@ -38,20 +39,22 @@ Pillowy Japanese-style shokupan. The trick is the tangzhong — a quick cooked f
 
 ## Peanut Gallery
 
-**Tim:** A second cooked-flour step before the real dough? That's a lot of pots for sandwich bread.
+**Tim:** You cook a paste. Then you make a dough. Then it rises twice. This is sandwich bread with a project plan.
 
-**Carolyn:** That's the tangzhong, and it's why you're doing any of this. It pre-gelatinizes the starch so the crumb holds water. This loaf is still soft on day three when a normal one has gone toast-only.
+**Carolyn:** The paste is the entire point. It's why the loaf is still soft on day three, when normal bread is toast-only.
 
-**Tim:** Fine, but people are going to scorch it. It goes from paste to glue in seconds.
+**Tim:** It is never going to see day three.
 
-**Carolyn:** Pull it the moment you can draw a line across the bottom of the pot. Then let it cool to barely warm before it meets the yeast, or you'll cook the dough before it rises.
+**Nate:** Can I throw the butter in at the start with everything else?
 
-**Nate:** Can I add the butter at the start with everything else?
+**Carolyn:** No.
 
-**Carolyn:** No. Let the gluten build first, then knead the butter in. Add it early and the dough never tightens up and you're kneading a greasy puddle.
+**Nate:** What if I just
 
-**Nate:** And the windowpane thing, where you stretch it thin?
+**Carolyn:** No. Gluten first, butter after. Add it early and you're kneading a greasy puddle for twenty minutes.
 
-**Carolyn:** That one's a real cue. Stretch a piece until it goes translucent. If it holds, the structure's there and the loaf will tear into soft strands. If it rips, keep kneading.
+**Nate:** Asking for a friend who already did it.
 
-**Tim:** I retract the pot complaint. I do not retract that this is a project.
+**Carolyn:** Stretch a piece of dough thin. If you can see light through it before it rips, stop kneading. If it rips, keep going. And pull the paste off the heat the second your spoon leaves a line. It turns to glue fast.
+
+**Tim:** Made it. Tore it apart with my hands like an animal. I retract everything.

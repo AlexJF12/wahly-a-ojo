@@ -4,6 +4,7 @@ author: "Emily"
 course: "breakfast"
 servings: "8 servings"
 cook_time: "35 min"
+gallery: "filler"
 ---
 
 # Granola
@@ -39,22 +40,16 @@ Olive oil instead of butter. Pistachios and walnuts. This is the granola.
 
 ## Peanut Gallery
 
-**Alex:** Olive oil granola sounds like it shouldn't work and then you eat it and you can't go back to butter.
+**Alex:** I was told this makes a week's worth. It was gone in two days. I'd like to speak to whoever did the math.
 
-**Carolyn:** Why olive oil?
+**Carolyn:** The math is fine. You're the problem.
 
-**Alex:** It's lighter. You taste the oats and the nuts, not butter with oats in it.
+**Tim:** Olive oil in granola sounds like a mistake somebody decided to stand behind.
 
-**Carolyn:** The pistachio and walnut together is doing a lot. Most granola picks one nut and calls it a day.
+**Alex:** That's what I thought. Then you taste oats and pistachios instead of butter with oats in it, and now I can't eat the boxed stuff.
 
-**Alex:** Emily doesn't do things halfway.
+**Carolyn:** Press it flat before it bakes and do not touch it while it cools. That's where the clusters come from. Stir it warm and you've made expensive cereal.
 
-**Carolyn:** Don't stir it much. You want the clusters to survive.
+**Tim:** I touched it while it cooled.
 
-**Alex:** Break up the clusters and you've made expensive cereal.
-
-**Carolyn:** Most store-bought granola is already expensive cereal.
-
-**Alex:** This lasts about two days in our house, which is a problem, because it makes a week's worth.
-
-**Carolyn:** That's not the granola's problem.
+**Carolyn:** I know. I could tell.

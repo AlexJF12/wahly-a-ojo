@@ -4,6 +4,7 @@ author: "Carolyn"
 course: "breakfast"
 servings: "2 smoothies"
 prep_time: "5 min"
+gallery: "filler"
 ---
 
 # Breakfast Smoothie
@@ -36,14 +37,14 @@ The everyday one. Thick, cold, a little tart. Built to keep you full past mid-mo
 
 **Alex:** A smoothie recipe. We have officially run out of things to write down.
 
-**Nate:** Mock it, but the frozen banana part is real. Ice makes it cold and watery. A frozen banana makes it a milkshake that's technically breakfast.
+**Tim:** It has four steps and one of them is "taste it."
 
-**Alex:** Okay, that one's good.
+**Nate:** Laugh all you want. Frozen banana instead of ice is the difference between a milkshake and cold fruit water.
 
-**Nate:** Put the nut butter or the oats in too, or you're starving by ten. Sugar water doesn't hold you.
+**Alex:** Fine, that part is real. So is the pinch of salt, which makes me furious. The berries taste more like berries and I refuse to learn why.
 
-**Alex:** Carolyn puts a pinch of salt in hers.
+**Tim:** I put a handful of spinach in mine and told no one. You can't taste it. The color is a crime, though.
 
-**Nate:** Does that do anything?
+**Nate:** Don't skip the oats or the nut butter, or you're eating a second breakfast at ten.
 
-**Alex:** Infuriatingly, yes. Makes the fruit taste more like fruit. I've stopped trying to understand it.
+**Tim:** I'm eating a second breakfast at ten regardless.

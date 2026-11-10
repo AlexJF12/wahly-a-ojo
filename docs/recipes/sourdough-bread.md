@@ -4,6 +4,7 @@ author: "Carolyn"
 course: "bread"
 servings: "1 loaf"
 cook_time: "45 min"
+gallery: "filler"
 ---
 
 # Sourdough Bread
@@ -33,16 +34,20 @@ A basic country loaf. This is mostly waiting — the hands-on time is small, the
 
 ## Peanut Gallery
 
-**Alex:** Carolyn has a sourdough starter with a name, doesn't she.
+**Alex:** The starter has a name, doesn't it.
 
-**Tim:** Her name is Brenda, and Carolyn talks about Brenda more than she talks about most people.
+**Tim:** Brenda. I get more updates on Brenda than I get on most people.
 
-**Alex:** The bread is incredible though. Annoyingly.
+**Nate:** I was asked to feed Brenda for a weekend once. There were written instructions.
 
-**Tim:** Wait for the starter to actually peak. Bubbly and domed, not flat. Float a spoonful in water and if it sinks, it isn't ready.
+**Alex:** The bread is incredible. Annoyingly.
 
-**Alex:** And score it deep. One half-inch slash, committed. Timid little scratches and it bursts open at the side like it's embarrassed.
+**Tim:** Drop a spoonful of starter in a glass of water before you mix. If it floats, go. If it sinks, Brenda needs a few more hours.
 
-**Tim:** Don't cut it hot, either. The inside is still setting and you'll get gummy bread.
+**Nate:** Score it with one deep slash, like you mean it. I did nervous little scratches and the loaf blew out the side.
 
-**Alex:** "Listen to your bread cool" is the most Carolyn sentence ever recorded, and here we are, listening to bread.
+**Alex:** And don't cut it hot. It's gummy inside until it cools. This is the hardest step in the recipe.
+
+**Tim:** "Listen for the crust crackling." We're listening to bread now.
+
+**Alex:** I listened. It does crackle. I hate that she's right.

@@ -4,11 +4,14 @@ author: "Emily"
 course: "entree"
 servings: "6 servings"
 cook_time: "1 hr"
+gallery: "filler"
 ---
 
 # Matzoh Ball Soup
 
 ![Matzoh ball soup](../images/matzoh-ball-soup/matzoh-ball-soup.jpg)
+
+Fluffy matzoh balls in good chicken broth. The hardest part is leaving the lid alone.
 
 ## Ingredients
 
@@ -44,18 +47,18 @@ cook_time: "1 hr"
 
 **Alex:** Don't lift the lid. She said don't lift the lid.
 
-**Carolyn:** Why are you saying it like that?
+**Carolyn:** Why are you saying it like that.
 
-**Alex:** Because the first time I made these I lifted the lid at twelve minutes and they collapsed.
+**Alex:** Because I lifted the lid at twelve minutes. They sank. I've made my peace with it.
 
-**Carolyn:** Patience. See previous conversation about patience.
+**Carolyn:** You have clearly not made your peace with it.
 
-**Alex:** Schmaltz or nothing, by the way. The oil version works, it just doesn't taste like somebody's grandmother made it.
+**Nate:** Schmaltz, not oil. The oil ones are fine. The schmaltz ones taste like somebody's grandmother is in the kitchen.
 
-**Carolyn:** Does the seltzer in the batter do anything?
+**Carolyn:** What does the seltzer do?
 
-**Alex:** Makes them lighter. Some people use baking powder, but Emily uses seltzer and Emily is right.
+**Nate:** Makes them lighter. Some people use baking powder. Emily uses seltzer, and Emily is right.
 
-**Carolyn:** These are the kind of matzoh balls that make you feel like everything is going to be okay.
+**Alex:** Roll them small. They double. I made golf balls once and ended up with softballs.
 
-**Alex:** That's what they're for.
+**Carolyn:** This is the soup you want when you're sick, or sad, or it's just raining.

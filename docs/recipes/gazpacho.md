@@ -4,11 +4,14 @@ author: "Ceci"
 course: "starter"
 servings: "6 servings"
 prep_time: "20 min"
+gallery: "filler"
 ---
 
 # Gazpacho
 
 ![Gazpacho](../images/gazpacho/gazpacho-andaluz.jpg)
+
+Cold tomato soup for when it's too hot to cook. The blender does the work and the fridge does the rest.
 
 ## Ingredients
 
@@ -33,12 +36,20 @@ prep_time: "20 min"
 
 ## Peanut Gallery
 
-**Alex:** The cucumber doesn't need to be in there. It waters it down. The tomato and the pepper are doing all the work.
+**Alex:** The cucumber doesn't need to be in here. It waters it down.
 
-**Carolyn:** Without cucumber it's cold marinara. Ceci put it in for a reason. Are you arguing with Ceci?
+**Carolyn:** Are you arguing with Ceci?
 
 **Alex:** I'm not arguing with Ceci. I'm arguing with the cucumber.
 
-**Carolyn:** The cucumber stays. Keep the bread in too, it gives it body. And use real sherry vinegar, not red wine vinegar pretending to be fancy.
+**Carolyn:** The cucumber stays. Without it you're drinking cold marinara.
 
-**Alex:** That part I agree with.
+**Ben:** Can we go back to the part where there's bread in the soup? Blended? On purpose?
+
+**Carolyn:** It's what makes it creamy without any cream. Keep it. And use real sherry vinegar, not red wine vinegar in a nice bottle.
+
+**Ben:** It has to be painfully cold, too. Two hours minimum. I chill the bowls.
+
+**Alex:** You chill the bowls.
+
+**Ben:** I contain multitudes.
