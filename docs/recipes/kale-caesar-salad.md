@@ -10,7 +10,7 @@ gallery: "filler"
 
 # Kale Caesar Salad
 
-![Kale Caesar Salad](../images/kale-caesar-salad/kale-caesar-salad.jpg)
+![Kale salad](../images/kale-caesar-salad/kale-caesar-salad.jpg)
 
 A Caesar that won't turn to soup. The kale holds up, the croutons are homemade, and the dressing hides six anchovies you'll never see coming.
 

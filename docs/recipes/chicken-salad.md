@@ -9,9 +9,7 @@ gallery: "filler"
 
 # Chicken Salad
 
-![Chicken salad](../images/chicken-salad/hero.jpg)
-
-![Chicken salad](../images/chicken-salad/chicken_salad_1.jpeg)
+![Chicken salad sandwich](../images/chicken-salad/hero.jpg)
 
 Rotisserie chicken from the store is fine. Leftover roast chicken is better. Whatever you have works.
 

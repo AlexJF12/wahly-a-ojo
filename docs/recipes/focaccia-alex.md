@@ -9,7 +9,7 @@ gallery: "filler"
 
 # Focaccia Bread (Alex's Version)
 
-![Focaccia with roasted cherry tomatoes and garlic](../images/focaccia-alex/focaccia-alex.jpg)
+![Focaccia](../images/focaccia-alex/focaccia-alex.jpg)
 
 Same dimpled, olive-oil-drenched focaccia, but you jammy-roast a pan of cherry tomatoes and garlic first and press them into the top before it bakes. They collapse into little sweet-savory bombs. This is my version — there will be others.
 

@@ -9,7 +9,7 @@ gallery: "filler"
 
 # Focaccia Bread (Ceci's Version)
 
-![Focaccia brushed with chili crisp oil](../images/focaccia-ceci/focaccia-ceci.jpg)
+![Focaccia](../images/focaccia-ceci/focaccia-ceci.jpg)
 
 Same dimpled, olive-oil-drenched focaccia, except you spoon chili crisp oil into every dimple before it bakes. The oil crisps the crust and the little flakes and fried garlic bits toast in the heat. Crunchy, spicy, savory. This is my version — there will be others.
 
