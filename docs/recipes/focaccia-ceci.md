@@ -4,6 +4,7 @@ author: "Ceci"
 course: "bread"
 servings: "9 pieces"
 cook_time: "25 min"
+gallery: "filler"
 ---
 
 # Focaccia Bread (Ceci's Version)
@@ -36,14 +37,20 @@ Same dimpled, olive-oil-drenched focaccia, except you spoon chili crisp oil into
 
 ## Peanut Gallery
 
-**Alex:** Chili crisp on focaccia sounds like a dare and then it works. Stir the jar first, though. Everybody spoons the oil off the top and leaves the crunchy garlic and the flakes sitting at the bottom.
+**Alex:** I would like it on the record that I wrote my focaccia first.
 
-**Tim:** Won't the flakes burn at 450?
+**Carolyn:** Nobody asked.
 
-**Alex:** They can. Put most of it in the dimples and hold a spoonful back to drizzle on for the last five minutes, so those bits stay crunchy.
+**Alex:** I would also like it on the record that this one is very good.
 
-**Carolyn:** The scallions at the end are doing real work. You need something fresh cutting through the oil or it's rich on top of rich.
+**Tim:** Chili crisp on bread sounded like a dare. I ate a third of the pan.
 
-**Tim:** A squeeze of lime wouldn't hurt either.
+**Alex:** Stir the jar before you spoon. Everybody skims the oil off the top and leaves the crunchy garlic at the bottom. And hold a spoonful back for the last five minutes so the bits toast instead of scorch.
 
-**Alex:** Lime's good. And still use the flaky salt even though the chili crisp is salty. They're doing different jobs.
+**Carolyn:** Don't skip the scallions. You need something fresh on top or it's oil on oil.
+
+**Tim:** So which focaccia wins?
+
+**Carolyn:** Tim.
+
+**Tim:** I'm just asking what everyone's thinking.

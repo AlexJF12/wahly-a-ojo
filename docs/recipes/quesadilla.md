@@ -1,9 +1,10 @@
 ---
 title: "Quesadilla"
 author: "Tim"
-course: "other"
+course: "entree"
 servings: "2 quesadillas"
 cook_time: "15 min"
+gallery: "filler"
 ---
 
 # Quesadilla
@@ -35,18 +36,18 @@ The fast lunch that lives or dies on two things: the cheese and the heat. Get th
 
 ## Peanut Gallery
 
-**Carolyn:** Tim wrote half a page about cheese and two lines about everything else.
+**Carolyn:** Tim wrote a full paragraph about cheese and one sentence about everything else.
 
-**Alex:** Because the cheese is the whole ballgame. Pre-shredded cheese has sawdust in it. It will not melt right.
+**Alex:** As he should. Bagged cheese has sawdust on it.
 
-**Carolyn:** It's cellulose, not sawdust.
+**Carolyn:** It's cellulose.
 
-**Alex:** It's sawdust's cousin and it ruins quesadillas. Grate the block.
+**Alex:** It's sawdust's cousin and it doesn't melt. Grate the block.
 
-**Carolyn:** The medium-heat note is the other real one. People crank the burner, char the tortilla, and the cheese inside is still a cold solid.
+**Nate:** "Molten cheese is a trap and you know it." That is a man who has burned the roof of his mouth on every quesadilla he's ever made.
 
-**Alex:** Which means standing there while it goes. The cheese melts slower than the tortilla browns.
+**Carolyn:** Medium heat is the real lesson. Crank it and you get a black tortilla wrapped around a cold brick of cheese.
 
-**Carolyn:** Riveting.
+**Nate:** Let a little cheese spill out the side and fry on the pan. That crispy edge is the best bite.
 
-**Alex:** One more. Thin layer of cheese against each tortilla with the filling in between. It welds the whole thing together so it doesn't explode when you flip it.
+**Alex:** It's a quesadilla recipe and I learned two things. I'm upset.

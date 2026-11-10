@@ -4,6 +4,7 @@ author: "Alex"
 course: "side"
 servings: "6 servings"
 cook_time: "45 min"
+gallery: "filler"
 ---
 
 # Black Beans
@@ -36,24 +37,18 @@ Instant Pot black beans from dried. No soaking. The cinnamon is not optional.
 
 ## Peanut Gallery
 
-**Carolyn:** Cinnamon in black beans.
+**Carolyn:** Cinnamon. In beans. I read that line three times.
 
-**Nate:** I made that face too. It doesn't read as sweet, it just rounds out the cumin and makes the pot taste like it cooked twice as long as it did.
+**Nate:** I made the same face. Then I ate half the pot standing at the stove.
 
-**Carolyn:** And no soaking?
+**Carolyn:** That's not a review, that's a confession.
 
-**Nate:** Not in a pressure cooker. That's why you're using it.
+**Nate:** It doesn't taste like cinnamon. It tastes like the beans cooked for six hours instead of thirty minutes. Just salt them at the end, way harder than feels polite. They're flat right up until the last pinch and then the whole pot wakes up.
 
-**Carolyn:** My grandmother would like a word.
+**Ben:** Splash of vinegar right before serving. Red wine, sherry, whatever's open.
 
-**Nate:** Your grandmother didn't have an appliance that also makes rice.
+**Carolyn:** Fine. I made them. The cinnamon stays. I was wrong.
 
-**Carolyn:** She had patience. Which is a thing you could try sometime.
+**Nate:** Screenshotting this.
 
-**Nate:** Salt them harder than you think, by the way. Dried beans drink it up. They'll taste flat right until that last pinch and then the whole pot wakes up.
-
-**Carolyn:** Fine. They're good. The cinnamon thing, I was wrong about.
-
-**Nate:** Write that down too.
-
-**Carolyn:** Don't push it.
+**Carolyn:** I will deny it at dinner.

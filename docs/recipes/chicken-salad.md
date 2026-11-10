@@ -1,9 +1,10 @@
 ---
 title: "Chicken Salad"
 author: "Nate"
-course: "other"
+course: "entree"
 servings: "enough for a few sandwiches"
 prep_time: "15 min"
+gallery: "filler"
 ---
 
 # Chicken Salad
@@ -45,28 +46,16 @@ Sweet and crunchy: grapes or apple, toasted walnuts or pecans, tarragon or chive
 
 ## Peanut Gallery
 
-**Carolyn:** Nate wrote a recipe that is essentially vibes and I respect it deeply.
+**Carolyn:** Nate wrote a recipe with no amounts in it. It's the most *a ojo* thing in this whole book and I respect it deeply.
 
-**Alex:** "Mayo — enough to make it creamy, probably more than you think." That is doing a lot of work as an instruction.
+**Alex:** "Mayo, probably more than you think." That's not a measurement, that's a warning.
 
-**Carolyn:** It's accurate though. People always under-mayo.
+**Ben:** He's right, though. Everybody under-mayos and then wonders why it's dry.
 
-**Alex:** I made the dill version and the grape-and-walnut version in the same week.
+**Alex:** I made the dill one and the grape-and-walnut one in the same week. They are not the same dish. They shouldn't share a name.
 
-**Carolyn:** Are they the same dish?
+**Carolyn:** "The Herb Situation" and "The Fancy One."
 
-**Alex:** Not remotely. They should have different names.
+**Ben:** Do not skip the pickle juice. I left it out once and the whole bowl tasted sad. One spoonful fixed it.
 
-**Carolyn:** "Herb Situation" and "The Fancy One."
-
-**Alex:** Don't leave out the acid at the end. I left it out once and the salad knew.
-
-**Carolyn:** What does that mean?
-
-**Alex:** It tasted sad. Use the pickle juice.
-
-**Carolyn:** Make the dill one first. Put it on sourdough.
-
-**Alex:** We don't have sourdough anymore.
-
-**Carolyn:** ...
+**Carolyn:** Toast the bread. That's my entire contribution.

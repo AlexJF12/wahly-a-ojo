@@ -5,6 +5,7 @@ course: "side"
 servings: "6–8 servings"
 prep_time: "15 min"
 cook_time: "30 min"
+gallery: "filler"
 ---
 
 # Kale Caesar Salad
@@ -39,22 +40,18 @@ A Caesar that won't turn to soup. The kale holds up, the croutons are homemade, 
 
 ## Peanut Gallery
 
-**Tim:** Six anchovies? In a salad?
+**Tim:** Six anchovies. In a salad.
 
-**Ben:** You won't taste them as fish. They melt into the dressing and make it taste like Caesar. Leave them out and it's mayo on a leaf.
+**Ben:** You won't taste fish. They melt into the dressing and it just tastes like Caesar. Leave them out and it's mayo on a leaf.
 
-**Carolyn:** It's the raw white onion that worries me. Thinly sliced, sure, but that's a lot of onion.
+**Tim:** And then I have to massage the kale. With my hands. Like it had a long week.
 
-**Ben:** Soak the slices in cold water for ten minutes and pat them dry. Takes the bite off, keeps the crunch.
-
-**Carolyn:** See, *that* I'll do.
-
-**Tim:** And the massaging. Necessary or just a vibe?
-
-**Ben:** Necessary. Throw a pinch of salt in while you work the oil through, and don't rush it. When the leaves go dark and glossy and shrink to half the volume, they're done. Undermassaged kale is basically eating a hedge.
+**Ben:** Two minutes, with a pinch of salt. When it goes dark and shrinks by half, you're done. Skip it and you're eating a hedge.
 
 **Carolyn:** A hedge with croutons.
 
-**Tim:** This holds up, though, right? Kale doesn't wilt like romaine.
+**Ben:** Soak the onion slices in cold water for ten minutes while you're at it. Takes the bite off, keeps the crunch.
 
-**Ben:** Dress it and let it sit fifteen minutes and it gets better. Try that with a real Caesar and you've got soup.
+**Tim:** Okay, I made it. It was even better the next day, which no salad has ever been. I take back the anchovy thing.
+
+**Carolyn:** Nobody take back the hedge thing.

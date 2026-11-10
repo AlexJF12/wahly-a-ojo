@@ -407,13 +407,46 @@
   border-top: 1px solid var(--border);
 }
 
+/* A comment can run to several paragraphs and include photos. */
+.md-typeset .opinion > p {
+  margin: 0 0 0.6rem;
+}
+
+.md-typeset .opinion > p:last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset .opinion > p:first-child {
+  margin-bottom: 0.15rem;
+}
+
+.md-typeset .opinion img {
+  display: block;
+  max-width: min(100%, 22rem);
+  margin: 0.5rem 0;
+  border-radius: var(--card-radius);
+}
+
+/* Names not listed below get a colour derived from the name (--speaker-hue
+   is set inline by the build hook), so anyone can join the conversation. */
 .opinion__name {
   display: block;
   font-size: 0.72rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  margin-bottom: 0.15rem;
+  color: hsl(var(--speaker-hue, 0) 50% 38%);
+}
+
+[data-md-color-scheme="slate"] .opinion__name {
+  color: hsl(var(--speaker-hue, 0) 55% 70%);
+}
+
+/* Shown under the heading while a recipe still has `gallery: filler`. */
+.md-typeset .gallery-filler {
+  margin: 0.6rem 0 0;
+  font-size: 0.72rem;
+  font-style: italic;
   color: var(--text-secondary);
 }
 
@@ -509,4 +542,23 @@
   .cookbook-hero { padding: 3rem 1rem 1.5rem; }
   .cookbook-hero h1 { font-size: 2.1rem; }
   .cookbook-hero p { font-size: 1rem; }
+}
+
+/* ── Print (browser "Save as PDF") ─────────────────────────── */
+
+@media print {
+  .back-link,
+  .more-from,
+  .gallery-filler {
+    display: none;
+  }
+
+  .opinions {
+    box-shadow: none;
+  }
+
+  .opinion,
+  .md-typeset li {
+    break-inside: avoid;
+  }
 }

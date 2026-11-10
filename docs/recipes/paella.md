@@ -4,6 +4,7 @@ author: "Ceci"
 course: "entree"
 servings: "6 servings"
 cook_time: "45 min"
+gallery: "filler"
 ---
 
 # Paella
@@ -40,18 +41,20 @@ Paella valenciana — chicken, beans, saffron rice, and a toasted crust on the b
 
 ## Peanut Gallery
 
-**Alex:** "Do not stir again, ever" is in all caps in Ceci's notes. Underlined twice.
+**Alex:** "Do not stir it again — ever." You can hear the underline.
 
-**Carolyn:** Because it's the one thing everyone gets wrong. Stir it and you've made risotto with a Spanish accent.
+**Carolyn:** Because it's the one thing everybody does. You stir, you get risotto with a Spanish accent.
 
-**Ben:** What's the socarrat? She drops it in like I'm supposed to already know.
+**Ben:** What's socarrat? She drops it in like I'm supposed to already know.
 
-**Alex:** The crispy toasted layer of rice on the bottom of the pan. Best part. You build it on high heat right at the end.
+**Alex:** The crispy layer of rice stuck to the bottom of the pan. It's the best part.
 
-**Carolyn:** And use the widest pan you own. Paella wants a thin layer of rice. Pile it deep and it steams.
+**Ben:** So the burnt bit. On purpose.
 
-**Ben:** So the socarrat is the burnt bit on purpose.
+**Carolyn:** Toasted. Say "toasted" in front of Ceci or she takes the pan back.
 
-**Carolyn:** Toasted. Say toasted in front of Ceci or she takes the pan back.
+**Alex:** Listen for it. When the pan starts to crackle and it smells like toast, give it one more minute and get it off the heat. And warm the broth before it goes in. Cold broth makes the rice cook unevenly.
 
-**Alex:** Warm the broth before it goes in, too. Cold broth shocks the rice and it cooks uneven.
+**Ben:** Who gets the socarrat?
+
+**Carolyn:** Whoever's holding the spoon. That's why I serve.

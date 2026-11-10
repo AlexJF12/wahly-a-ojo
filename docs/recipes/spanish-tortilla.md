@@ -4,6 +4,7 @@ author: "Ceci"
 course: "entree"
 servings: "6 servings"
 cook_time: "30 min"
+gallery: "filler"
 ---
 
 # Spanish Tortilla
@@ -34,14 +35,20 @@ Tortilla de patatas. Potatoes, eggs, onion, olive oil — that's the whole list,
 
 ## Peanut Gallery
 
-**Alex:** Onion in a tortilla. Ceci has picked a side in a war that has ended friendships in Spain.
+**Alex:** Onion in the tortilla. In writing. People in Spain have stopped speaking to each other over this.
 
-**Carolyn:** Team onion is correct. It goes sweet and soft and makes the whole thing taste like more than eggs and potatoes.
+**Carolyn:** Team onion is correct. It goes soft and sweet, and suddenly it tastes like more than eggs and potatoes.
 
-**Alex:** I'm not arguing. I'm noting that she put it in print. Bold woman.
+**Alex:** I'm not disagreeing. I'm admiring the nerve.
 
-**Carolyn:** The real tip is the resting step, letting the potatoes sit in the beaten egg before it hits the pan. That's why hers holds together and yours slides apart on the flip.
+**Ben:** Can we talk about the flip? You put a plate on a pan of hot egg and just turn it over?
 
-**Alex:** And pull it while the center's still a little soft. It keeps cooking from its own heat after the flip.
+**Carolyn:** Over the sink. Fast. Don't think. Hesitating is how it ends up on the stove.
 
-**Carolyn:** Jammy middle or it didn't happen. Don't let it set into a frittata.
+**Ben:** That's not a technique, that's a trust fall.
+
+**Carolyn:** The step that actually matters is letting the potatoes sit in the egg for ten minutes before the pan. That's why hers holds together.
+
+**Alex:** And pull it while the middle is still soft. Cook it all the way through and you've made a frittata.
+
+**Ben:** Mine landed. Mostly.

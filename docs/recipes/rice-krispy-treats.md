@@ -4,11 +4,14 @@ author: "Emily"
 course: "dessert"
 servings: "12 squares"
 cook_time: "15 min"
+gallery: "filler"
 ---
 
 # Rice Krispy Treats
 
 ![Rice Krispy treats](../images/rice-krispy-treats/rice-krispy-treats.jpg)
+
+The classic, with two small upgrades: a pinch of salt and a little vanilla.
 
 ## Ingredients
 
@@ -30,22 +33,22 @@ cook_time: "15 min"
 
 ## Peanut Gallery
 
-**Alex:** This is three ingredients and one of them is marshmallows.
+**Alex:** Three ingredients. One of them is marshmallows.
 
-**Carolyn:** And people mess it up constantly.
+**Carolyn:** And you have still managed to mess them up.
 
-**Alex:** How?
+**Alex:** I added things.
 
-**Carolyn:** They press them down too hard. They use too much butter. They microwave the marshmallows and they go weird.
+**Carolyn:** You always add things. Emily follows the recipe and hers are perfect every time. Sit with that.
 
-**Alex:** Emily's are perfect every time. I don't know what she does differently.
+**Ben:** Don't mash them into the pan. Pat them down like you're tucking them in. Press hard and you could tile a bathroom with them.
 
-**Carolyn:** She follows the recipe and doesn't improvise. You could learn from this.
+**Alex:** The salt matters. Make them once without it and they just taste like "sweet."
 
-**Alex:** I don't improvise on Rice Krispy Treats.
+**Ben:** Brown the butter first. Take it a little past melted, until it smells nutty.
 
-**Carolyn:** You improvise on everything.
+**Carolyn:** Ben. "She follows the recipe" was ten seconds ago.
 
-**Alex:** The pinch of salt makes a difference. Make them once without it.
+**Ben:** It's still three ingredients.
 
-**Carolyn:** The vanilla too. These are technically a recipe for children and they're better than most desserts I've had this year.
+**Alex:** "Let them cool completely before cutting. Or don't. Nobody actually waits." Finally, a recipe that gets me.

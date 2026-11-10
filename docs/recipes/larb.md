@@ -4,6 +4,7 @@ author: "Alex"
 course: "entree"
 servings: "4 servings"
 cook_time: "25 min"
+gallery: "filler"
 ---
 
 # Larb
@@ -40,22 +41,16 @@ Ground turkey larb. The toasted rice powder is the whole thing — don't skip it
 
 ## Peanut Gallery
 
-**Carolyn:** He grinds his own rice for this?
+**Carolyn:** "Don't buy it pre-made." I didn't know rice powder existed until this sentence.
 
-**Ben:** Takes three minutes and it changes the dish. The store-bought stuff tastes like nothing. Toast yours until it's deep golden and smells nutty, then grind it coarse, not to flour. You want to feel some grit.
+**Ben:** It takes three minutes and it's the only thing in the bowl that crunches. Toast it darker than you think and grind it coarse. You want grit, not flour.
 
-**Carolyn:** I believe you. I'm just noting the energy.
+**Carolyn:** I did it in the coffee grinder. The larb was great. The coffee the next morning was a journey.
 
-**Ben:** It's where the texture comes from. Nothing else in that bowl crunches.
+**Tim:** Three tablespoons of fish sauce and nobody's going to say anything?
 
-**Carolyn:** Sounds fine without it.
+**Ben:** It smells like a mistake and tastes exactly right. Dress the meat while it's still warm so it soaks in instead of sliding off.
 
-**Ben:** It is fine without it. Fine isn't the goal.
+**Tim:** I trust the fish sauce more than I trust either of you.
 
-**Carolyn:** The fish sauce amount seems aggressive.
-
-**Ben:** It seems aggressive and then you taste it and it's right. Dress the turkey while it's still warm, too. It drinks the lime and fish sauce up instead of letting it slide off.
-
-**Carolyn:** I trust the fish sauce more than I trust either of you.
-
-**Ben:** That's fair.
+**Carolyn:** Correct instinct.

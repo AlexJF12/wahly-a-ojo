@@ -4,11 +4,14 @@ author: "Ceci"
 course: "entree"
 servings: "8 servings"
 cook_time: "20 min"
+gallery: "filler"
 ---
 
 # Ropa Vieja
 
 ![Ropa Vieja](../images/ropa-vieja/ropa_vieja_1.jpeg)
+
+Shredded flank steak simmered with tomato, peppers, and wine. It starts with meat you've already cooked, so it comes together fast.
 
 ## Ingredients
 
@@ -37,22 +40,22 @@ cook_time: "20 min"
 
 ## Peanut Gallery
 
-**Alex:** The pre-cooked meat thing reads like a footnote and it's the whole recipe. Use leftovers from a broth.
+**Alex:** "Cooked ahead of time in broth" is tucked into the ingredient list like it's nothing. It's the whole recipe.
 
-**Carolyn:** I made it with freshly cooked steak the first time. It was fine. It was not this.
+**Carolyn:** I used fresh steak the first time. It was fine. It was not this.
 
-**Alex:** Putting the wine in with everything at once felt wrong to me and then it was perfect. Ceci knew what she was doing.
+**Tim:** It means "old clothes." We're all just okay with that?
 
-**Carolyn:** I'd add more garlic. Two cloves is a suggestion, not a limit.
+**Alex:** Best-named dish in the book. Shred it by hand until it looks like the name. Forks leave it chunky.
 
-**Alex:** You say that about everything.
+**Carolyn:** Two cloves of garlic is a suggestion.
 
-**Carolyn:** And I'm right every time. Also, blend half the roasted peppers into the sauce and lay the other half on top. You're welcome.
+**Alex:** You say that on every recipe.
+
+**Carolyn:** And I've been right on every recipe. Also, blend half the roasted peppers into the sauce and lay the rest on top.
 
 **Alex:** That's not in the recipe.
 
 **Carolyn:** It is now.
 
-**Alex:** Serve it with white rice. Don't try to be interesting about it.
-
-**Carolyn:** And make a double batch. It's better the next day.
+**Tim:** White rice. Double batch. Better tomorrow. That's all I've got.
